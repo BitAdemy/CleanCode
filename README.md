@@ -63,3 +63,38 @@ https://bitademy.com/clean-code/
 
 - Encapsulación de funcionalidad e información.
 - Crear objetos con clase y principios sólidos.
+
+---
+
+![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
+
+
+---
+
+[Proyecto Heredado...](https://github.com/AcademiaBinaria/clean-code-TS/tree/master/0-jelou/src)
+
+--
+
+[¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
+
+---
+
+### Cinco Principios de mejora
+
+1. Mostrar la **intención** y ocultar los detalles.
+
+2. **Evitar** la globalización y el acoplamiento.
+
+3. Separar **responsabilidades**.
+
+4. Don't Repeat Yourself **(DRY)**
+
+...
+
+5. Keep It Simple, (*not*) Stupid **(KISS)**
+
+---
+
+> "La verdad sólo se encuentra en un lugar: el código"
+>
+> -- **Robert C. Martin**
