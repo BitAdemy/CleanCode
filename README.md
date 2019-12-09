@@ -42,6 +42,14 @@ https://bitademy.com/clean-code/
 
 ---
 
+
+## [Principios de mejora](https://github.com/BitAdemy/CleanCode/blob/master/prinpios.md)
+
+
+![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
+
+---
+
 ## bitLessons
 
 ### NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
@@ -65,13 +73,6 @@ https://bitademy.com/clean-code/
 - Crear objetos con clase y principios sólidos.
 
 ---
-
-![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
-
-
----
-
-##[Principios de mejora](./principios.md)
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
