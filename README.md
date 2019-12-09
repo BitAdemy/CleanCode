@@ -42,7 +42,7 @@ https://bitademy.com/clean-code/
 
 ---
 
-## NAME [Estilo y nombrado.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+## NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
 
 - Reglas y herramientas de limpieza con estilo.
 - Claridad y consistencia para dar sentido con los nombres.
