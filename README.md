@@ -1,63 +1,74 @@
-# CleanCode
-Curso para crear y rehacer aplicaciones limpias
+# NAME: Estilo y nombrado.
+Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
 
-> "Cualquiera puede escribir código para que lo entienda una **máquina**. Pero los programadores profesionales escriben código para que los **humanos** lo entiendan."
+## Código bonito
+
+> "Deja siempre el campamento más limpio de lo que estaba."
 >
-> -- **Martin Fowler**
+> -- **The Boy Scout Rule**
 
 ---
 
-## Introducción
+## Belleza
 
-**Programar es expresar procesos con detalle en un lenguaje no ambiguo**  que entiendan las máquinas.
+> Algo que agrada a tus sentidos.
 
-Pero también es usar ese lenguaje para comunicar a otras personas la intención de los procesos de forma que puedan ser leídos, entendidos y mejorados
+- Cualidad subjetiva.
 
-Las **técnicas de código limpio** ayudan a escribir programas sencillos de entender, que aportan valor y que pueden evolucionar.
+- Características objetivas.
 
-La programación limpia es una técnica que se puede aprender y practicar.
-
----
-
-## Objetivos
-
-- Desarrollar aplicaciones fáciles de mantener.
-- Reducir la cantidad de errores y facilitar su detección.
-- Distinguir las buenas y malas prácticas de programación.
-
-## A quién va dirigido
-
-- Programadores de aplicaciones con experiencia
-
-## Material necesario
-
-- Editor de código y navegador, recomendados VSCode y Chrome
-
-- Cliente GIT y conocimientos básicos...
-
-
-## En bitAdemy
-
-https://bitademy.com/clean-code/
+  - Sencillez.
+  - Armonía.
+  - Repetición.
 
 ---
 
-## NAME [Estilo y nombrado.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+- Belleza **horizontal**
 
-- Reglas y herramientas de limpieza con estilo.
-- Claridad y consistencia para dar sentido con los nombres.
+  - Sangría en **bloques**
+  - Espaciado en **expresiones**
+  - Tamaño de las **líneas**
 
-## FUNCTION [Instrucciones, bloques y funciones.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+--
 
-- Tipos de instrucciones y sus agrupaciones.
-- La función como pieza fundamental de composición.
+- Belleza **vertical**
 
-## DATA [Estructuras de datos.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+  - **Orden** de las variables o propiedades
+  - **Orden** de las funciones o métodos
+        - público -> privado
+        - newsletter
 
-- Agrupaciones de información coherentes.
-- Impacto de las estructuras en los algoritmos.
+--
 
-## OBJECT [Objetos y lógica de negocio.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+    > ¿Cuántas líneas en blanco seguidas **realmente** necesitas?
 
-- Encapsulación de funcionalidad e información.
-- Crear objetos con clase y principios sólidos.
+---
+
+## Código con Reglas de Estilo
+
+- **Decisión**: vamos a establecer reglas.
+- **Opción**: vamos a fijar valores razonables.
+- **Sentido**: vamos a incumplirlas... pero a sabiendas.
+
+---
+
+![Tabs vs Spaces](./assets/tabs_vs_spaces.png)
+
+--
+
+- Evita conflictos trasladando la decisión a otros:
+
+  - [eslint-recommended](https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js)
+
+---
+
+- Herramientas de limpieza, según IDE y lenguaje:
+
+  - [Prettier](https://prettier.io/)
+  - [Beautify](https://www.npmjs.com/package/js-beautify)
+
+---
+
+> "El código limpio parece escrito por alguien a quien le importa"
+>
+> -- **Robert C. Martin**
