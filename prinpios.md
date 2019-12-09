@@ -2,8 +2,7 @@
 
 ## Para reducir el número de WTF!
 
-
-[Proyecto Heredado...](https://github.com/AcademiaBinaria/clean-code-TS/tree/master/0-jelou/src)
+[¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
 
 ---
 
@@ -20,5 +19,3 @@
 5. Keep It Simple, (*not*) Stupid **(KISS)**
 
 ---
-
-[¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
