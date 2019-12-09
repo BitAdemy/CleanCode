@@ -42,22 +42,24 @@ https://bitademy.com/clean-code/
 
 ---
 
-## NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
+## bitLessons
+
+### NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
 
 - Reglas y herramientas de limpieza con estilo.
 - Claridad y consistencia para dar sentido con los nombres.
 
-## FUNCTION [Instrucciones, bloques y funciones.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+### FUNCTION [Instrucciones, bloques y funciones.](https://github.com/BitAdemy/CleanCode/tree/FUNCTION)
 
 - Tipos de instrucciones y sus agrupaciones.
 - La función como pieza fundamental de composición.
 
-## DATA [Estructuras de datos.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+### DATA [Estructuras de datos.](https://github.com/BitAdemy/CleanCode/tree/DATA)
 
 - Agrupaciones de información coherentes.
 - Impacto de las estructuras en los algoritmos.
 
-## OBJECT [Objetos y lógica de negocio.](https://academiabinaria.github.io/clean-code-TS/0-jelou.html)
+### OBJECT [Objetos y lógica de negocio.](https://github.com/BitAdemy/CleanCode/tree/OBJECT)
 
 - Encapsulación de funcionalidad e información.
 - Crear objetos con clase y principios sólidos.
