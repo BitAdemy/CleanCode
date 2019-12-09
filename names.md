@@ -8,83 +8,49 @@
 
 ---
 
-### Claridad
+## Objetivo: Claridad
 
---
-
-#### Mostrar la INTENCIÓN
-
---
+### Mostrar la INTENCIÓN
 
     - Explicar por qué se hace.
 
 ---
 
-### Sustantivos
+> Palabras completas y descriptivas.
 
-#### Para variables / propiedades
+## Sustantivos
 
-- Vocabulario de **entidades y propiedades** de negocio
+### Para variables / propiedades / constantes / clases
 
-#### Para roles o clases
+- Vocabulario de **entidades y propiedades** de negocio.
 
-- manager, presenter, interactor, validator, mapper
+- Con nombres pronunciables y corregibles ortográficamente.
 
-> Palabras completas y descriptivas
+- Sin prefijos o sufijos técnicos.
 
-```typescript
-class Invoice{
-  number;
-  date;
-  client;
-}
-class InvoiceValidator{}
-```
+- Lo siento Harry, pero mejor sin magia.
 
 ---
 
-### Verbos
+## Verbos
 
-#### Cortos y concretos en flags
+### Cortos y concretos en flags
 
 - is, has, get, set, can, must, do
 
-#### Obligatorios en funciones / métodos
+### Obligatorios en funciones / métodos
 
-- Vocabulario para **relaciones y acciones** comunes
+- Vocabulario para **relaciones y acciones** comunes.
 
-> Clarifica mediante sustantivos, adverbios, preposiciones
+- Define listas permitidas para acciones comunes.
 
-```typescript
-class Client{
-  hasPendingOrders: boolean;
-  getPendingOrders(){}
-  getOrdersByStatus(orderStatus){}
-}
-```
+- Clarifica añadiendo sustantivos, adverbios o preposiciones.
 
 ---
 
 ![wtf-naming](./assets/naming.png)
 
----
-
-### Reduce WTF!
-
-- **No magic numbers**
-- **No magic strings**
-
-```typescript
-const minimumAge = 18;
-const allowedMessage = "Welcome";
-const deniedMessage = "Go home";
-
-if(yourAge >= minimumAge){
-  console.log(allowedMessage);
-} else {
-  console.log(deniedMessage);
-}
-```
+### Reduce WTF! **No magic numbers**.
 
 ---
 
@@ -92,8 +58,6 @@ if(yourAge >= minimumAge){
 
 - Mejor ser **consistente** con pocas normas...
 - ... que cambiar de norma consistentemente.
-
---
 
 ### Piensa en mi
 
@@ -109,5 +73,10 @@ if(yourAge >= minimumAge){
 > Nombra una variable con el mismo cuidado con el que nombras a un primogénito"
 >
 > -- **Robert C. Martin**
+
+
+### links
+
+- [Clean Code Applied to JavaScript — Part II. Variables](https://dev.to/carlillo/clean-code-applied-to-javascript-part-ii-variables-pc)
 
 

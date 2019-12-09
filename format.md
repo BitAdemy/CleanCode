@@ -72,7 +72,7 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
   - [Beautify](https://www.npmjs.com/package/js-beautify)
   - Buscar según IDE y lenguaje.
 
-> Aplicable a todo tipo de lenguajes. [Code guide for HTML & CSS](https://codeguide.co/)
+> Aplicable a todo tipo de lenguajes.
 
 
 ---
@@ -87,3 +87,9 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 - [These tools will help you write clean code](https://www.freecodecamp.org/news/these-tools-will-help-you-write-clean-code-da4b5401f68e/)
 
 - [Poetic](https://github.com/arianacosta/poetic)
+
+- [Code guide for HTML & CSS](https://codeguide.co/)
+
+- [12 Principles For Clean HTML Code](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
+
+- [Clean Code in SQL](https://riptutorial.com/sql/topic/9843/clean-code-in-sql)
