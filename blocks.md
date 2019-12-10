@@ -8,7 +8,7 @@
 
 ---
 
-## Condicionales
+## ❓ Condicionales
 
 - Usar ternarios sólo en casos triviales.
 
@@ -20,7 +20,7 @@
 
 - Evitar los switches.
 
-## Repetitivas
+## ➿ Repetitivas
 
 - La condición de ruptura un sólo operador lógico.
 
@@ -28,7 +28,7 @@
 
 - Se permiten los índices clásicos `i, j`.
 
-## Límites
+## ⚠️ Límites
 
 - ✅2 - 4❌ _niveles de anidamiento_
 - ✅4 - 8❌ _instrucciones por bloque_

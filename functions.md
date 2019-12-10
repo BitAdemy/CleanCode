@@ -15,7 +15,7 @@
 
 
 
-## Límites
+## ⚠️ Límites
 
 - ✅2  -  4❌ _argumentos_
 - ✅8  - 12❌ _complejidad ciclomática_

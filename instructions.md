@@ -8,7 +8,7 @@
 
 ---
 
-## Declaración
+## 👶 Declaración
 
 - Una variable o constante por línea.
 
@@ -16,17 +16,17 @@
 
 - Procurar inicializar siempre con un valor.
 
-## Asignación
+## 📥 Asignación
 
 - Asignar el resultado de expresiones sencillas.
 
-## Invocación
+## 📞 Invocación
 
 - En cuanto se complique...
 
 - Llamar a métodos, subrutinas, procedimientos o funciones.
 
-## Atajos a vigilar
+## 👮 Atajos a vigilar
 
 - Operadores ternarios
 
