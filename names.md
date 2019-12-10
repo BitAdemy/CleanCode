@@ -50,7 +50,9 @@
 
 ![wtf-naming](./assets/naming.png)
 
-### Reduce WTF! **No magic numbers**.
+### Reduce WTF!
+
+❌ **No magic numbers**.
 
 ---
 

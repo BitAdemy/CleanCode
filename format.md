@@ -55,6 +55,13 @@
 
 Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
+## Límites
+
+- ✅80  - 120❌ _caracteres por línea_
+- ✅1   -   2❌ _líneas pen blanco_
+- ✅100 - 200❌ _líneas por fichero_
+
+
 ---
 
 ![Tabs vs Spaces](./assets/tabs_vs_spaces.png)
