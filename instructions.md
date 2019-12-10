@@ -2,7 +2,7 @@
 
 ## Orden en las sentencias
 
-> "I'm not a great programmer; I'm just a good programmer with great habits"
+> "No soy un gran programador; Solo soy un buen programador con buenos hábitos"
 >
 > -- **Kent Beck**
 
@@ -42,4 +42,6 @@
 > Usarlos sólo como una abreviación de casos muy simples.
 > Usar características del lenguaje para evitar tratar nulos y valores por defecto.
 
-[![Edit clean_code-function](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/frosty-dust-wwcy4?fontsize=14&hidenavigation=1&theme=dark)
+## 📝 Laboratorio
+
+[![Edit clean_code-instructions](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-instructions-0fuo7?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&previewwindow=tests&theme=dark)

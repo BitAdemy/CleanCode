@@ -78,4 +78,6 @@
 >
 > -- **Robert C. Martin**
 
+## 📝 Laboratorio
+
 [![Edit clean_code-functions](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/practical-fog-jp49h?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&previewwindow=tests&theme=dark)
