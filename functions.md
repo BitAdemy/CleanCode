@@ -17,9 +17,9 @@
 
 ## Límites
 
-- _instrucciones_               ✅16 - 24❌
-- _complejidad ciclomática_     ✅8  - 12❌
-- _argumentos_                  ✅2  -  4❌
+- ✅2  -  4❌ _argumentos_
+- ✅8  - 12❌ _complejidad ciclomática_
+- ✅16 - 24❌ _instrucciones_
 
 ---
 

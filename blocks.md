@@ -30,8 +30,8 @@
 
 ## Límites
 
-- _niveles de anidamiento_      ✅2 -  4❌
-- _instrucciones por bloque_    ✅4 -  8❌
+- ✅2 - 4❌ _niveles de anidamiento_
+- ✅4 - 8❌ _instrucciones por bloque_
 
 
 > Obliga a extraer código a funciones
