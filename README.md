@@ -44,7 +44,7 @@ https://bitademy.com/clean-code/
 
 ![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
 
-## [Principios de mejora](https://github.com/BitAdemy/CleanCode/blob/master/prinpios.md)
+## [Principios de mejora](https://github.com/BitAdemy/CleanCode/blob/master/principios.md)
 
 ---
 
