@@ -82,3 +82,6 @@
 - [Clean Code Applied to JavaScript — Part II. Variables](https://dev.to/carlillo/clean-code-applied-to-javascript-part-ii-variables-pc)
 
 
+## 📝 Laboratorio
+
+[![Edit clean_code-names](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/nice-davinci-9r32n?fontsize=14&hidenavigation=1&module=%2Fsrc%2Fbad.js&previewwindow=tests&theme=dark)
