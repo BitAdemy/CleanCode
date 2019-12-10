@@ -47,3 +47,5 @@
 > "Cada vez que escribas un comentario, debes sentirlo como un fallo de tu capacidad de expresión"
 >
 > -- **Robert C. Martin**
+
+[![Edit clean_code-blocks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-banzai-32d9k?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&moduleview=1&previewwindow=tests&theme=dark)
