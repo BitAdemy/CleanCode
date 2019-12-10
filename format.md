@@ -55,7 +55,7 @@
 
 Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
-## Límites
+## ⚠️Límites
 
 - ✅80  - 120❌ _caracteres por línea_
 - ✅1   -   2❌ _líneas pen blanco_

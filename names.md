@@ -18,7 +18,7 @@
 
 > Palabras completas y descriptivas.
 
-## Sustantivos
+## 📫 Sustantivos
 
 ### Para variables / propiedades / constantes / clases
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Verbos
+## 💪 Verbos
 
 ### Cortos y concretos en flags
 
