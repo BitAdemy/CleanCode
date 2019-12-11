@@ -1,6 +1,6 @@
 # Format
 
-## Código bonito
+## ✨ Código bonito
 
 > "Cada línea de código debe parecer escrita por la misma persona, sin importar el número de participantes."
 
@@ -22,20 +22,20 @@
 
 ---
 
-- Belleza **horizontal**
+- 🚥Belleza **horizontal**
 
   - Sangría en **bloques**
   - Espaciado en **expresiones**
   - Tamaño de las **líneas**
 
-- Belleza **vertical**
+- 🚦 Belleza **vertical**
 
   - **Orden** de las variables o propiedades
   - **Orden** de las funciones o métodos
         - público -> privado
         - newsletter
 
-- Belleza **interna**
+- 🔬 Belleza **interna**
 
   - **Separadores** de listas e instrucciones
   - **Espacios** en las expresiones
@@ -58,7 +58,7 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 ## ⚠️Límites
 
 - ✅80  - 120❌ _caracteres por línea_
-- ✅1   -   2❌ _líneas pen blanco_
+- ✅1   -   2❌ _líneas en blanco seguidas_
 - ✅100 - 200❌ _líneas por fichero_
 
 
