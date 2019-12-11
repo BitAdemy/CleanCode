@@ -1,26 +1,21 @@
-# FUNCTION: Instrucciones, bloques y funciones.
+# DATA: Abstracciones de información.
+
 Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
 
-> "A veces, la implementación más elegante es solo una función. No es un método. No es una clase. No es un framework. Solo una función."
+> "Los malos programadores se preocupan por el código.
+> Los buenos se preocupan por las estructuras de datos y sus relaciones".
 >
-> -- **John Carmack**
+> -- **Linus Torvalds**.
 
-## [Instrucciones](./instructions.md)
+## [Estructuras de DATOS](./structures.md)
 
-- Declaración, asignación e invocación...
+- Agrupación de variables con sentido de negocio...
 
-## [Bloques](./blocks.md)
+## [Estructuras condicionales](./conditions.md)
 
-- Estructuras con instrucciones.
+- Simplificación de algoritmos...
 
-## [Funciones](./functions.md)
 
-- Expresa claramente una intención.
-
-> El tiempo dedicado a la lectura es muy superior al de escritura.
-
-> Leemos código antiguo para escribir código nuevo.
-
-> Facilitar la lectura facilita la escritura.
+> "La estructura de datos expone sus propiedades y no tiene funciones significativas"
 >
 > -- **Robert C. Martin**
