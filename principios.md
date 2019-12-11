@@ -19,3 +19,13 @@
 5. Keep It Simple, (*not*) Stupid **(KISS)**
 
 ---
+
+![Perdone pero... le huele el código](./assets/your-code-smells.jpg)
+
+> Perdone, le huele el código.
+
+---
+
+> "Cualquier código tuyo que no hayas mirado últimamente, es como si lo hubiese escrito otro."
+>
+> -- **Ley de Eagleson**
