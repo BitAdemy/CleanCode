@@ -30,8 +30,3 @@
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-data_structures](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/mystifying-cartwright-tj1w0?fontsize=14&hidenavigation=1&previewwindow=tests&theme=dark)
-
-- Limitar primitivos
-- Reducir argumentos
-- Composición, mejor que herencia
