@@ -1,12 +1,12 @@
 # Clases
 
-### Los objetos encapsulan la **lógica**
+### Los objetos encapsulan La Lógica
 
 ### Usan estructuras de datos
 
 ### Cohesionan funciones relacionadas
 
-### Suelen representar **Actores**.
+### Suelen representar Actores.
 
 ### Relacionan unas entidades con otras.
 
@@ -17,7 +17,7 @@
 ## ⚠️ Límites
 
 - ✅8_____16❌ _propiedades y métodos públicos_
-- ✅8_____16❌ _métodos públicos_
+- ✅0______1❌ _argumentos por método_
 - ✅100__200❌ _instrucciones_
 
 ---
