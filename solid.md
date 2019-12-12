@@ -28,3 +28,5 @@ Muchas interfaces específicas son mejores que una interfaz de propósito genera
 Depender de abstracciones, no de implementaciones concretas. Resolver en ejecución usando la Inyección de Dependencias.
 
 ## 📝 Laboratorio
+
+[![Edit clean_code-object](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/blissful-shape-hjv8p?fontsize=14&hidenavigation=1&previewwindow=tests&theme=dark)

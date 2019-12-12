@@ -28,5 +28,3 @@
 >
 > -- **Steve Fenton**
 
-## 📝 Laboratorio
-
