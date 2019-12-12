@@ -16,9 +16,9 @@
 
 ## ⚠️ Límites
 
-- ✅8____16❌ _propiedades y métodos públicos_
-- ✅8____16❌ _métodos públicos_
-- ✅100_200❌ _instrucciones_
+- ✅8_____16❌ _propiedades y métodos públicos_
+- ✅8_____16❌ _métodos públicos_
+- ✅100__200❌ _instrucciones_
 
 ---
 

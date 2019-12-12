@@ -1,6 +1,6 @@
 # Principios sólidos para finales flexibles
 
-![solid diagram](./assets/c-solid.jpg)
+![solid diagram](./assets/solid.jpg)
 
 ### S : Single responsibility principle
 
