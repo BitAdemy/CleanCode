@@ -30,7 +30,7 @@
 
 ## ⚠️ Límites
 
-- ✅2___4❌ _niveles de anidamiento_
+- ✅1___2❌ _niveles de anidamiento_
 - ✅4___8❌ _instrucciones por bloque_
 
 
