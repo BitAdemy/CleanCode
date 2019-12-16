@@ -1,8 +1,10 @@
 # Cinco Principios de mejora
 
-## Para reducir el número de WTF!
+![Perdone pero... le huele el código](./assets/your-code-smells.jpg)
 
-[¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
+> Perdone, le huele el código.
+
+## Para reducir el número de WTF!
 
 ---
 
@@ -20,12 +22,12 @@
 
 ---
 
-![Perdone pero... le huele el código](./assets/your-code-smells.jpg)
-
-> Perdone, le huele el código.
+[¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
 
 ---
 
 > "Cualquier código tuyo que no hayas mirado últimamente, es como si lo hubiese escrito otro."
 >
 > -- **Ley de Eagleson**
+
+[Clean Code](https://github.com/BitAdemy/CleanCode/)

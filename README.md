@@ -11,11 +11,11 @@ Curso para crear y rehacer aplicaciones limpias
 
 **Programar es expresar procesos con detalle en un lenguaje no ambiguo**  que entiendan las máquinas.
 
-Pero también es usar ese lenguaje para comunicar a otras personas la intención de los procesos de forma que puedan ser leídos, entendidos y mejorados
+Pero también es usar ese lenguaje para **comunicar a otras personas la intención** de los procesos de forma que puedan ser leídos, entendidos y mejorados
 
 Las **técnicas de código limpio** ayudan a escribir programas sencillos de entender, que aportan valor y que pueden evolucionar.
 
-La programación limpia es una técnica que se puede aprender y practicar.
+La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
