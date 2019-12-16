@@ -11,7 +11,7 @@ Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
 
 - Agrupación de variables con sentido de negocio...
 
-## [Estructuras condicionales](./conditions.md)
+## [Estructuras condicionales](./algorithms.md)
 
 - Simplificación de algoritmos...
 
