@@ -28,11 +28,11 @@
 
 ## 👮 Atajos a vigilar
 
-- Operadores ternarios
+- ⚠️ Operadores ternarios
 
     - `condition ? value if true : value if false`
 
-- Operadores lógicos
+- ⚠️ Operadores lógicos
 
     - `value = value || defaultValue;`
 
@@ -44,4 +44,4 @@
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-instructions](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-instructions-0fuo7?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&previewwindow=tests&theme=dark)
+[![Edit clean_code-function](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-functions-jp49h?fontsize=14&hidenavigation=1&module=%2Fsrc%2Finstructions%2Fis_leap.js&previewwindow=tests&theme=dark)

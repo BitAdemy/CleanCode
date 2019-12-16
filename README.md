@@ -21,6 +21,6 @@ Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
 
 > Leemos código antiguo para escribir código nuevo.
 
-> Facilitar la lectura facilita la escritura.
+> Facilitar la lectura es facilitar la escritura.
 >
 > -- **Robert C. Martin**

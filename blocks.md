@@ -10,13 +10,15 @@
 
 ## ❓ Condicionales
 
-- Usar ternarios sólo en casos triviales.
+- ⚠️ Usar ternarios sólo en casos triviales.
 
 - Envolver siempre entre llaves.
 
 - La condición de un sólo operador lógico.
 
 - En otro caso debe ser una función.
+
+- Valorar retorno **anticipado** vs retorno **unificado**
 
 - Evitar los switches.
 
@@ -50,4 +52,4 @@
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-blocks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/gracious-banzai-32d9k?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&moduleview=1&previewwindow=tests&theme=dark)
+[![Edit clean_code-function](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-functions-jp49h?fontsize=14&hidenavigation=1&module=%2Fsrc%2Fblocks%2Fprimes.js&previewwindow=tests&theme=dark)

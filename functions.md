@@ -8,10 +8,10 @@
 
 ### Pequeñas y Claras
 
-- Cuanto más pequeñas más reutilizables.
-- Con **verbos** en su nombre que indiquen propósito
-- _DRY_: Don´t Repeat yourself.
-- ...sin comentarios.
+- ♻️ Cuanto más pequeñas más reutilizables.
+- 💪 Con **verbos** en su nombre que indiquen propósito
+- 🐫 _DRY_: Don´t Repeat yourself.
+- 💬 ...sin comentarios.
 
 
 
@@ -25,7 +25,7 @@
 
 ## Favorecer el estilo funcional puro:
 
-> Una función pura es una función en la que el valor de retorno solo está determinado por sus valores de entrada, sin efectos secundarios observables.
+> En una** función pura** el valor de retorno solo está determinado por sus valores de entrada, sin efectos secundarios observables.
 
 - predecibles
 - sin dependencias del entorno
@@ -35,7 +35,7 @@
 
 - ### cuantos menos argumentos mejor.
 
-    - especialmente evita argumentos _flag_ usando múltiples funciones específicas
+    - 🎏 especialmente evita argumentos _flag_ usando múltiples funciones específicas
 
     - dar valores por defecto si el lenguaje los soporta.
 
@@ -53,13 +53,13 @@
 
 ### Objetivo: Muchas Pequeñas Funciones Organizadas
 
-- Una función,
+- 👆 Una función,
 
     - ## un sólo propósito.
 
     - ... o al menos un mismo nivel de abstracción.
 
-- Sin comentarios.
+- 💬 Sin comentarios.
   - ¿Me repito?. MAL!!!
 
 ---
@@ -80,4 +80,4 @@
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-functions](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/practical-fog-jp49h?fontsize=14&hidenavigation=1&module=%2Fsrc%2Findex.js&previewwindow=tests&theme=dark)
+[![Edit clean_code-function](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-functions-jp49h?fontsize=14&hidenavigation=1&module=%2Fsrc%2Ffunctions%2Fwords%2Findex.js&previewwindow=tests&theme=dark)
