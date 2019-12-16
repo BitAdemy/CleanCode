@@ -16,6 +16,7 @@ Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
 
 - Principios para organizar clases...
 
+[Visualizing Refactoring](https://twitter.com/LlewellynFalco/status/633363986273189888)
 
 > "Los objetos protegen sus datos detrás de abstracciones y exponen las funciones que operan con esos datos."
 >
