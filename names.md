@@ -85,6 +85,6 @@
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-names](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/nice-davinci-9r32n?fontsize=14&hidenavigation=1&module=%2Fsrc%2Fbad.js&previewwindow=tests&theme=dark)
+[![Edit clean_code-name](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-names-9r32n?fontsize=14&hidenavigation=1&theme=dark)
 
 [/BitAdemy/CleanCode/NAME](https://github.com/BitAdemy/CleanCode/tree/NAME)
