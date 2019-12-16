@@ -16,7 +16,7 @@
 
 ---
 
-> Palabras completas y descriptivas.
+> Emplear siempre palabras completas y descriptivas. Idealmente pronunciables y corregibles ortográficamente.
 
 ## 📫 Sustantivos
 
@@ -24,11 +24,10 @@
 
 - Vocabulario de **entidades y propiedades** de negocio.
 
-- Con nombres pronunciables y corregibles ortográficamente.
-
 - Sin prefijos o sufijos técnicos.
 
 - Lo siento Harry, pero mejor sin magia.
+
 
 ---
 
@@ -36,13 +35,15 @@
 
 ### Cortos y concretos en flags
 
-- is, has, get, set, can, must, do
+`is, has, can, must`
 
 ### Obligatorios en funciones / métodos
 
-- Vocabulario para **relaciones y acciones** comunes.
+- Vocabulario para **relaciones y acciones**.
 
 - Define listas permitidas para acciones comunes.
+
+ `get, set, read, write, select, insert`
 
 - Clarifica añadiendo sustantivos, adverbios o preposiciones.
 
@@ -63,8 +64,8 @@
 
 ### Piensa en mi
 
-- No me sorprendas
-- No me hagas pensar
+- 😲 No me sorprendas
+- 😕 No me hagas pensar
 
 ---
 
@@ -85,3 +86,5 @@
 ## 📝 Laboratorio
 
 [![Edit clean_code-names](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/nice-davinci-9r32n?fontsize=14&hidenavigation=1&module=%2Fsrc%2Fbad.js&previewwindow=tests&theme=dark)
+
+[/BitAdemy/CleanCode/NAME](https://github.com/BitAdemy/CleanCode/tree/NAME)

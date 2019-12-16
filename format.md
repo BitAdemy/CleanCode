@@ -5,14 +5,13 @@
 > "Cada línea de código debe parecer escrita por la misma persona, sin importar el número de participantes."
 
 
-
 ---
 
 ## Belleza
 
 > Algo que agrada a tus sentidos.
 
-- Cualidad subjetiva.
+- Cualidad subjetiva... no valoramos el tema de color... aunque el mío es más chulo.
 
 - Características objetivas.
 
@@ -31,16 +30,16 @@
 - 🚦 Belleza **vertical**
 
   - **Orden** de las variables o propiedades
-  - **Orden** de las funciones o métodos
-        - público -> privado
-        - newsletter
+  - **Orden** de las funciones o métodos:
+    - público -> privado
+    - newsletter
 
 - 🔬 Belleza **interna**
 
   - **Separadores** de listas e instrucciones
   - **Espacios** en las expresiones
-        - alrededor de los paréntesis
-        - alrededor de los operadores
+    - alrededor de los paréntesis
+    - alrededor de los operadores
   - **Delimitadores** de cadenas
 
 > ¿Cuántas líneas en blanco seguidas **realmente** necesitas?
@@ -57,9 +56,9 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ## ⚠️Límites
 
-- ✅80  - 120❌ _caracteres por línea_
-- ✅1   -   2❌ _líneas en blanco seguidas_
-- ✅100 - 200❌ _líneas por fichero_
+- ✅80____120❌ _caracteres por línea_
+- ✅1_______2❌ _líneas en blanco seguidas_
+- ✅100___200❌ _líneas por fichero_
 
 
 ---
@@ -100,3 +99,5 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 - [12 Principles For Clean HTML Code](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
 
 - [Clean Code in SQL](https://riptutorial.com/sql/topic/9843/clean-code-in-sql)
+
+[/BitAdemy/CleanCode/NAME](https://github.com/BitAdemy/CleanCode/blob/NAME/names.md)

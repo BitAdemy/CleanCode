@@ -13,6 +13,12 @@ Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
 
 - Expresa claramente una intención.
 
+---
+
+[Agregar una funcionalidad a una base de código heredada](https://twitter.com/cassidoo/status/1151265157709889536)
+
+--
+
 > El tiempo dedicado a la lectura es muy superior al de escritura.
 
 > Leemos código antiguo para escribir código nuevo.
