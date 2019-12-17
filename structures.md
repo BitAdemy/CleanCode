@@ -1,12 +1,10 @@
 # Estructuras
 
-### 😶 Sin comportamiento de negocio
-
-### Poca o ninguna función
+### 😶 Sin comportamiento de negocio: poca o ninguna función
 
 ### 💞 Cohesionan variables relacionadas
 
-### Suelen tener nombres de Entidades
+### 📦 Suelen tener nombres de Entidades
 
 ### 👴 _Composición_ mejor que ~~herencia~~
 
