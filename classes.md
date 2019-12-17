@@ -1,16 +1,14 @@
 # Clases
 
-### Los objetos encapsulan La Lógica
+### 👓 Los objetos encapsulan La Lógica
 
-### Usan estructuras de datos
+### 📦 Usan estructuras de datos
 
-### Cohesionan funciones relacionadas
+### 👯 Cohesionan funciones relacionadas
 
-### Suelen representar Actores.
+### 💑 Relacionan unas entidades con otras.
 
-### Relacionan unas entidades con otras.
-
-### _Interfaces_ mejor que ~~herencia~~
+### 👵 _Interfaces_ mejor que ~~herencia~~
 
 ---
 
@@ -22,7 +20,7 @@
 
 ---
 
-> "Al diseñar nuestras clases debemos unir las características relacionadas,
+> "Al diseñar nuestras clases debemos juntar las características relacionadas,
 > de modo que cada vez que cambien sea por la misma razón.
 > Y deberíamos separar las características que cambian por diferentes razones."
 >
