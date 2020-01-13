@@ -4,10 +4,13 @@ Lo primero es admitir que **todo código es mejorable.** El tuyo también; y el 
 
 Para no decir que está mal decimos que... huele mal.
 
+---
+
 ![Perdone pero... le huele el código](./assets/your-code-smells.jpg)
 
 > Perdone, le huele el código.
 
+---
 
 ## Con el tiempo empeora
 
@@ -17,12 +20,12 @@ El software exige mantenimiento. Así que con el paso del tiempo, digamos que el
 >
 > -- **Ley de Eagleson**
 
+---
 
 ## Principios de mejora
 
 Así que toca limpiarlo. Pero no de cualquier manera. Seguiremos unos **Principios de Limpieza**:
 
----
 
 1. Mostrar la **intención** y ocultar los detalles.
 

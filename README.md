@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # CleanCode
 Curso para crear y rehacer aplicaciones limpias
 
@@ -49,6 +53,8 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 - Tipos de instrucciones y sus agrupaciones.
 - La función como pieza fundamental de composición.
+
+---
 
 ### DATA [Estructuras de datos.](https://github.com/BitAdemy/CleanCode/tree/DATA)
 
