@@ -1,4 +1,4 @@
-# Perdona pero... tu código huele.
+# 🤢 Perdona pero... tu código huele.
 
 Lo primero es admitir que **todo código es mejorable.** El tuyo también; y el mío también.
 
@@ -12,7 +12,7 @@ Para no decir que está mal decimos que... huele mal.
 
 ---
 
-## Con el tiempo empeora
+## 🥀 Con el tiempo empeora
 
 El software exige mantenimiento. Así que con el paso del tiempo, digamos que el olor va a peor. El de los demás por supuesto, pero el tuyo también.
 
@@ -22,7 +22,7 @@ El software exige mantenimiento. Así que con el paso del tiempo, digamos que el
 
 ---
 
-## Principios de mejora
+## 💈 Principios de mejora
 
 Así que toca limpiarlo. Pero no de cualquier manera. Seguiremos unos **Principios de Limpieza**:
 
@@ -44,5 +44,9 @@ Así que toca limpiarlo. Pero no de cualquier manera. Seguiremos unos **Principi
 [¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
 
 ---
+
+"El código limpio parece escrito por alguien a quien le importa"
+
+-- ✍️ Robert C. Martin
 
 [Clean Code](https://github.com/BitAdemy/CleanCode/)

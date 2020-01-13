@@ -7,7 +7,7 @@ Curso para crear y rehacer aplicaciones limpias
 
 > "Cualquiera puede escribir código para que lo entienda una **máquina**. Pero los programadores profesionales escriben código para que los **humanos** lo entiendan."
 >
-> -- **Martin Fowler**
+> -- ✍️ **Martin Fowler**
 
 ---
 
@@ -81,7 +81,7 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
-> -- **Robert C. Martin**
+> -- ✍️ **Robert C. Martin**
 
 ## En bitAdemy
 
