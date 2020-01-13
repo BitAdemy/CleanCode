@@ -6,6 +6,17 @@
 
 ---
 
+## 🌄 Objetivo: Claridad
+
+### Mostrar la INTENCIÓN
+
+    - Explicar qué se hace.
+
+- Emplear siempre verbos que indique una acción.
+- Para que se lea como una historia.
+
+---
+
 ### 🚩 Cortos y concretos en flags
 
 `is, has, can, must`
@@ -22,11 +33,6 @@
 
 ---
 
-### 🔁 Consistencia
-
-- Mejor ser **consistente** con pocas normas...
-- ... que cambiar de norma consistentemente.
-
 ### 🤔 Piensa en mi
 
 - 😲 No me sorprendas
@@ -34,13 +40,10 @@
 
 ---
 
-### 🔗 Links de referencia
-
-- [Clean Code Applied to JavaScript — Part II. Variables](https://dev.to/carlillo/clean-code-applied-to-javascript-part-ii-variables-pc)
-
-
 ## 📝 Laboratorio
 
-[![Edit clean_code-name](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-names-9r32n?fontsize=14&hidenavigation=1&theme=dark)
+> "La verdad sólo se encuentra en un lugar: el código"
+>
+> -- ✍️ **Robert C. Martin**
 
-[/BitAdemy/CleanCode/NAME](https://github.com/BitAdemy/CleanCode/tree/NAME)
+[![Edit clean_code-name](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-names-9r32n?fontsize=14&hidenavigation=1&theme=dark)

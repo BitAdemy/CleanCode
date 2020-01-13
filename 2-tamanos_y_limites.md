@@ -20,6 +20,12 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 - ✅1_______2❌ _líneas en blanco seguidas_
 - ✅100___200❌ _líneas por fichero_
 
+---
+
+### 🔁 Consistencia
+
+- Mejor ser **consistente** con pocas normas...
+- ... que cambiar de norma consistentemente.
 
 ---
 
@@ -62,4 +68,6 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ## 📝 Laboratorio
 
-[/BitAdemy/CleanCode/NAME](https://github.com/BitAdemy/CleanCode/blob/NAME/names.md)
+> "La verdad sólo se encuentra en un lugar: el código"
+>
+> -- ✍️ **Robert C. Martin**

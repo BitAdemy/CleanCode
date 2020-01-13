@@ -6,11 +6,11 @@
 
 ---
 
-## Objetivo: Claridad
+## 🌄 Objetivo: Claridad
 
 ### Mostrar la INTENCIÓN
 
-    - Explicar por qué se hace.
+    - Explicar qué se va a almacenar.
 
 - Emplear siempre palabras completas y descriptivas.
 - Para que sean pronunciables y corregibles ortográficamente.
@@ -24,7 +24,7 @@
 
 - Sin prefijos o sufijos técnicos.
 
-- Lo siento Harry, pero mejor sin magia. 🔮
+- Lo siento Harry, pero mejor sin magia. 🧙
 
 
 ---
@@ -44,6 +44,8 @@
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-name](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-names-9r32n?fontsize=14&hidenavigation=1&theme=dark)
+> "La verdad sólo se encuentra en un lugar: el código"
+>
+> -- ✍️ **Robert C. Martin**
 
-[/BitAdemy/CleanCode/NAME](https://github.com/BitAdemy/CleanCode/tree/NAME)
+[![Edit clean_code-name](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-names-9r32n?fontsize=14&hidenavigation=1&theme=dark)

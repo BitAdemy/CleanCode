@@ -6,7 +6,6 @@
 >
 > -- ✍️ **Phil Karlton**
 
-
 ---
 
 ## [✨ 1 - Estilo y orden](https://github.com/BitAdemy/CleanCode/tree/NAME/1-estilo_y_orden.md)
@@ -25,19 +24,10 @@
 
 - Creamos un idioma para nuestro negocio.
 
-
 ---
 
 > "El tiempo dedicado a la lectura es muy superior al de escritura.
 > Leemos código antiguo para escribir código nuevo.
 > Facilitar la lectura facilita la escritura."
->
-> -- ✍️ **Robert C. Martin**
-
----
-
-Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
-
-> "El código limpio parece escrito por alguien a quien le importa."
 >
 > -- ✍️ **Robert C. Martin**
