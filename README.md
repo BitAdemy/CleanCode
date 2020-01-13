@@ -7,7 +7,7 @@ Curso para crear y rehacer aplicaciones limpias
 
 ---
 
-## Introducción
+## 🏁 Introducción
 
 **Programar es expresar procesos con detalle en un lenguaje no ambiguo**  que entiendan las máquinas.
 
@@ -19,17 +19,17 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desarrollar aplicaciones fáciles de mantener.
 - Reducir la cantidad de errores y facilitar su detección.
 - Distinguir las buenas y malas prácticas de programación.
 
-## A quién va dirigido
+## 👨‍💻 A quién va dirigido
 
 - Programadores de aplicaciones con experiencia
 
-## Material necesario
+## 💻 Material necesario
 
 - Editor de código y navegador, recomendados VSCode y Chrome
 
@@ -38,7 +38,7 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
-## bitLessons
+## Contenido: bitLessons
 
 ### NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
 
@@ -62,6 +62,8 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 - Encapsulación de funcionalidad e información.
 - Crear objetos con clase y principios sólidos.
 
+---
+
 ### ARTISAN [Artesanía del software.](https://github.com/BitAdemy/CleanCode/tree/ARTISAN)
 
 - Manifiesto artesano.
@@ -75,9 +77,9 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
-> "La verdad sólo se encuentra en un lugar: el código"
->
-> -- ✍️ **Robert C. Martin**
+"El código limpio parece escrito por alguien a quien le importa."
+
+-- ✍️ Robert C. Martin
 
 ## En bitAdemy
 

@@ -42,11 +42,3 @@ Así que toca limpiarlo. Pero no de cualquier manera. Seguiremos unos **Principi
 ---
 
 [¿Lo he puesto yo? ¿Estaba aquí? ... ](https://twitter.com/quinHD/status/1087817606923542528?s=20)
-
----
-
-"El código limpio parece escrito por alguien a quien le importa"
-
--- ✍️ Robert C. Martin
-
-[Clean Code](https://github.com/BitAdemy/CleanCode/)
