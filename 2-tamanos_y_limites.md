@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # 📏 Tamaños y límites
 
 > "No me gusta usar las barras de desplazamiento para leer tu código."
@@ -61,7 +57,6 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 - [12 Principles For Clean HTML Code](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
 
 - [Clean Code in SQL](https://riptutorial.com/sql/topic/9843/clean-code-in-sql)
-
 
 ---
 

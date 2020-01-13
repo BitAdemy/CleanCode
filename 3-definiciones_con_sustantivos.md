@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # 📫 Definiciones con sustantivos
 
 > "Da sentido mediante los nombres."
@@ -35,9 +31,9 @@ marp: true
 
 ![wtf-naming](./assets/naming.png)
 
-### Reduce WTF!
+### 🔮 Reduce WTF!
 
-❌ **No magic numbers**. 🔮
+❌ **No magic numbers**.
 
 ---
 

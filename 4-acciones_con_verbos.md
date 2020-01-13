@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # 💪 Acciones con verbos
 
 > "Expresa la lógica con verbos."
