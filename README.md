@@ -36,16 +36,6 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 - Cliente GIT y conocimientos básicos...
 
 
-## En bitAdemy
-
-https://bitademy.com/clean-code/
-
----
-
-![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
-
-## [Principios de mejora](https://github.com/BitAdemy/CleanCode/blob/master/principios.md)
-
 ---
 
 ## bitLessons
@@ -70,8 +60,25 @@ https://bitademy.com/clean-code/
 - Encapsulación de funcionalidad e información.
 - Crear objetos con clase y principios sólidos.
 
+### ARTISAN [Artesanía del software.](https://github.com/BitAdemy/CleanCode/tree/ARTISAN)
+
+- Manifiesto artesano.
+- Valores, disciplina y profesionalismo.
+
+---
+
+![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
+
+## [Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
+
 ---
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
 > -- **Robert C. Martin**
+
+## En bitAdemy
+
+https://bitademy.com/clean-code/
+
+---
