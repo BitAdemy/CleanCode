@@ -24,17 +24,17 @@ Así que toca limpiarlo. Pero no de cualquier manera. Seguiremos unos **Principi
 
 ---
 
-1. Mostrar la **intención** y ocultar los detalles.
+### 1. Mostrar la **intención** y ocultar los detalles.
 
-2. **Evitar** la globalización y el acoplamiento.
+### 2. **Evitar** la globalización y el acoplamiento.
 
-3. Separar **responsabilidades**.
+### 3. Separar **responsabilidades**.
 
-4. Don't Repeat Yourself **(DRY)**
+### 4. Don't Repeat Yourself **(DRY)**
 
 ...
 
-5. Keep It Simple, (*not*) Stupid **(KISS)**
+### 5. Keep It Simple, (*not*) Stupid **(KISS)**
 
 ---
 
