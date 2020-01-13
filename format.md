@@ -1,9 +1,14 @@
+---
+marp: true
+---
+
 # Format
 
 ## ✨ Código bonito
 
 > "Cada línea de código debe parecer escrita por la misma persona, sin importar el número de participantes."
-
+>
+> -- ✍️ **Un programador**
 
 ---
 
@@ -21,7 +26,7 @@
 
 ---
 
-- 🚥Belleza **horizontal**
+- 🚥 Belleza **horizontal**
 
   - Sangría en **bloques**
   - Espaciado en **expresiones**
@@ -33,6 +38,8 @@
   - **Orden** de las funciones o métodos:
     - público -> privado
     - newsletter
+
+---
 
 - 🔬 Belleza **interna**
 
@@ -85,8 +92,9 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 > "El código limpio parece escrito por alguien a quien le importa"
 >
-> -- **Robert C. Martin**
+> -- ✍️ **Robert C. Martin**
 
+---
 
 ### links
 

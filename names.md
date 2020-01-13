@@ -1,10 +1,14 @@
+---
+marp: true
+---
+
 # Names
 
 ## Dar sentido mediante los nombres
 
 > "Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar cosas"
 >
-> -- **Phil Karlton**
+> -- ✍️ **Phil Karlton**
 
 ---
 
@@ -14,9 +18,12 @@
 
     - Explicar por qué se hace.
 
+- Emplear siempre palabras completas y descriptivas.
+- Para que sean pronunciables y corregibles ortográficamente.
+
 ---
 
-> Emplear siempre palabras completas y descriptivas. Idealmente pronunciables y corregibles ortográficamente.
+
 
 ## 📫 Sustantivos
 
@@ -26,7 +33,7 @@
 
 - Sin prefijos o sufijos técnicos.
 
-- Lo siento Harry, pero mejor sin magia.
+- Lo siento Harry, pero mejor sin magia. 🔮
 
 
 ---
@@ -43,7 +50,7 @@
 
 - Define listas permitidas para acciones comunes.
 
- `get, set, read, write, select, insert`
+ `get | set, read | write, select | insert`
 
 - Clarifica añadiendo sustantivos, adverbios o preposiciones.
 
@@ -53,7 +60,7 @@
 
 ### Reduce WTF!
 
-❌ **No magic numbers**.
+❌ **No magic numbers**. 🔮
 
 ---
 
@@ -70,13 +77,12 @@
 ---
 
 > "Un nombre descriptivo largo es mejor que un nombre corto enigmático.
-
 > Un nombre descriptivo largo es mejor que un comentario descriptivo largo.
-
 > Nombra una variable con el mismo cuidado con el que nombras a un primogénito"
 >
-> -- **Robert C. Martin**
+> -- ✍️  **Robert C. Martin**
 
+---
 
 ### links
 
