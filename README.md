@@ -80,7 +80,8 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 ---
 
 > "El código limpio parece escrito por alguien a quien le importa."
-> -- ✍️ Robert C. Martin
+>
+> -- ✍️ **Robert C. Martin**
 
 ## En bitAdemy
 

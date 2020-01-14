@@ -1,5 +1,11 @@
 # 🤢 Perdona pero... tu código huele.
 
+> "Primero hazlo, después hazlo bien y luego hazlo mejor."
+>
+> -- ✍️ **Addy Osmani**
+
+---
+
 Lo primero es admitir que **todo código es mejorable.** El tuyo también; y el mío también.
 
 Para no decir que está mal decimos que... huele mal.
@@ -18,7 +24,7 @@ El software exige mantenimiento. Así que con el paso del tiempo, digamos que el
 
 > "Cualquier código tuyo que no hayas mirado últimamente, es como si lo hubiese escrito otro."
 >
-> -- **Ley de Eagleson**
+> -- ✍️ **Ley de Eagleson**
 
 ---
 
