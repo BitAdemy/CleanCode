@@ -68,6 +68,8 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ## 📝 Laboratorio
 
+https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/size.md
+
 > "La verdad sólo se encuentra en un lugar: el código"
 >
 > -- ✍️ **Robert C. Martin**
