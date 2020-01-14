@@ -1,6 +1,7 @@
 # ✅ Software que funciona
 
 >"Codifica como si la persona que mantendrá tu código fuera un psicópata violento que sabe dónde vives."
+>
 > -- ✍️ **Martin Golding**
 
 ---
@@ -24,7 +25,7 @@
 
 ---
 
-> - ¿Por qué los desarrolladores temen cambiar su código?
+> - "¿Por qué los desarrolladores temen cambiar su código?
 >
 > + Porque ¡Tienen miedo a que se rompa!
 >
@@ -32,6 +33,6 @@
 >
 > + Porque no tienen pruebas.
 >
-> - Si funciona, y tienes pruebas, tócalo.
+> - Si funciona, y tienes pruebas, tócalo."
 >
 > -- ✍️ **Robert C. Martin**
