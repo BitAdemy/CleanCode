@@ -20,11 +20,5 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Night Owl Light",
   "editor.formatOnSave": true,
-  "editor.formatOnType": true,
-  "prettier.useEditorConfig": true,
-  "prettier.disableLanguages": ["vue", "xlf", "xml", "html"],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "html.format.wrapAttributes": "force-aligned",
-  "html.format.enable": true,
-  "html.format.wrapLineLength": 80
+  "editor.formatOnType": true
 }
