@@ -75,11 +75,12 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ## [Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
 
+## [Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/software_que_funciona.md)
+
 ---
 
-"El código limpio parece escrito por alguien a quien le importa."
-
--- ✍️ Robert C. Martin
+> "El código limpio parece escrito por alguien a quien le importa."
+> -- ✍️ Robert C. Martin
 
 ## En bitAdemy
 
