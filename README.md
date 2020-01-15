@@ -27,4 +27,10 @@
 > -- ✍️ **John Carmack**
 
 
-Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
+## 📝 Laboratorio
+
+https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION
+
+> "La verdad sólo se encuentra en un lugar: el código"
+>
+> -- ✍️ **Robert C. Martin**

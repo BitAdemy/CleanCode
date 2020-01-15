@@ -50,4 +50,10 @@
 
 ## 📝 Laboratorio
 
+https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/1-instructions
+
+> "La verdad sólo se encuentra en un lugar: el código"
+>
+> -- ✍️ **Robert C. Martin**
+
 [![Edit clean_code-function](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-functions-jp49h?fontsize=14&hidenavigation=1&module=%2Fsrc%2Finstructions%2Fis_leap.js&previewwindow=tests&theme=dark)
