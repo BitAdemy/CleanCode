@@ -1,4 +1,4 @@
-# 🎬 Functions
+# 🧩 Functions
 
 ## Pequeñas piezas para organizar programas.
 
@@ -8,7 +8,7 @@
 
 ---
 
-### Pequeñas y Claras
+## 🛩️ Pequeñas y Claras
 
 - ♻️ Cuanto más pequeñas más reutilizables.
 - 💪 Con **verbos** en su nombre que indiquen propósito
@@ -25,19 +25,23 @@
 
 ---
 
-## Favorecer el estilo funcional puro:
+## 💧 Favorece el estilo funcional puro:
 
-> En una** función pura** el valor de retorno solo está determinado por sus valores de entrada, sin efectos secundarios observables.
+> En una **función pura** el valor de retorno solo está determinado por sus valores de entrada, sin efectos secundarios observables.
+>
+> -- ✍️ **Alguien a quien le gustan las matemáticas**.
 
-- predecibles
-- sin dependencias del entorno
-- sin efectos secundarios en el entorno
+- ### Predecibles.
+
+- ### Sin dependencias del entorno.
+
+- ### Sin efectos secundarios en el entorno.
 
 ---
 
-## Métodos en _P.O.O._:
+## 📦 Métodos en _P.O.O._:
 
-- ### cuantos menos argumentos mejor.
+- ### 0️⃣ cuantos menos argumentos mejor.
 
     - 🎏 evita argumentos _flag_ usando múltiples funciones específicas.
 
@@ -45,21 +49,21 @@
 
     - favorece objetos en lugar de ~~primitivos~~.
 
-- ### un mismo nivel de abstracción: delega en funciones privadas
+- ### 1️⃣ un mismo nivel de abstracción: delega en funciones privadas
 
     - las instrucciones en funciones públicas deben llamar a funciones privadas.
 
-- ### retornando datos; nunca errores.
+- ### ❎ retornando datos; nunca errores.
 
     - los errores tienen su propio flujo mediante `try-catch throw`.
     - si el lenguaje no lo permite, usar convenio tipo `(err, data)`.
 ---
 
-### Objetivo: Muchas Pequeñas Funciones Organizadas
+## 🎯 Objetivo: Muchas Pequeñas Funciones Organizadas
 
 - 👆 Una función,
 
-    - ## un sólo propósito.
+    - ## 🦄 un sólo propósito.
 
     - ... o al menos un mismo nivel de abstracción.
 
@@ -70,7 +74,7 @@
 
 > "Una función debería hacer una sola cosa, hacerla bien, y hacerla sólo ella".
 >
-> -- **Ley de Curly**
+> -- ✍️ **Ley de Curly**
 
 ---
 
@@ -80,7 +84,9 @@
 
 > "La duplicidad es el principal enemigo de un sistema bien diseñado"
 >
-> -- **Robert C. Martin**
+> -- ✍️ **Robert C. Martin**
+
+---
 
 ## 📝 Laboratorio
 

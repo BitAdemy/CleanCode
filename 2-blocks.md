@@ -2,9 +2,10 @@
 
 ## Estructuras
 
-> "El buen código es su mejor documentación"
+
+> "Cada vez que escribas un comentario, debes sentirlo como un fallo de tu capacidad de expresión"
 >
-> -- **Steve McConnell**
+> -- ✍️ **Robert C. Martin**
 
 ---
 
@@ -35,21 +36,16 @@
 - ✅1___2❌ _niveles de anidamiento_
 - ✅4___8❌ _instrucciones por bloque_
 
-> Obliga a extraer código a funciones
+> Te obliga a extraer código a funciones.
 
-> Obliga a nombrar las nuevas funciones
+> Te obliga a nombrar las nuevas funciones.
 
 ## Consecuencias
 
-- Más **reglas de negocio**
-- Menos anidamiento
-- **Cero** comentarios
+- 💼 Más **reglas de negocio**
+- 💬 **Cero** necesidad de comentarios
 
 ---
-
-> "Cada vez que escribas un comentario, debes sentirlo como un fallo de tu capacidad de expresión"
->
-> -- ✍️ **Robert C. Martin**
 
 ## 📝 Laboratorio
 

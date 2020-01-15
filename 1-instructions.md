@@ -4,7 +4,7 @@
 
 > "No soy un gran programador; Solo soy un buen programador con buenos hábitos"
 >
-> -- **Kent Beck**
+> -- ✍️ **Kent Beck**
 
 ---
 
@@ -41,7 +41,9 @@
     - `anObject && anObject.doSomething();`
 
 > No encadenes o agrupes estos atajos.
+
 > Úsalos sólo como una abreviación de casos muy simples.
+
 > Usa características del lenguaje para evitar tratar nulos y valores por defecto.
 
 ---
