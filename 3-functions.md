@@ -1,10 +1,12 @@
-# Functions
+# 🎬 Functions
 
 ## Pequeñas piezas para organizar programas.
 
 > "Una función debería hacer una sola cosa, hacerla bien, y hacerla sólo ella".
 >
-> -- **Ley de Curly**.
+> -- ✍️ **Ley de Curly**.
+
+---
 
 ### Pequeñas y Claras
 
@@ -31,23 +33,25 @@
 - sin dependencias del entorno
 - sin efectos secundarios en el entorno
 
+---
+
 ## Métodos en _P.O.O._:
 
 - ### cuantos menos argumentos mejor.
 
-    - 🎏 especialmente evita argumentos _flag_ usando múltiples funciones específicas
+    - 🎏 evita argumentos _flag_ usando múltiples funciones específicas.
 
-    - dar valores por defecto si el lenguaje los soporta.
+    - asigna valores por defecto si el lenguaje los soporta.
 
-    - favorecer objetos en lugar de primitivos
+    - favorece objetos en lugar de ~~primitivos~~.
 
 - ### un mismo nivel de abstracción: delega en funciones privadas
 
-    - las instrucciones de las funciones públicas deberían ser llamadas a funciones privadas
+    - las instrucciones en funciones públicas deben llamar a funciones privadas.
 
 - ### retornando datos; nunca errores.
 
-    - los errores tienen su propio flujo mediante `try-catch throw`
+    - los errores tienen su propio flujo mediante `try-catch throw`.
     - si el lenguaje no lo permite, usar convenio tipo `(err, data)`.
 ---
 
@@ -60,7 +64,7 @@
     - ... o al menos un mismo nivel de abstracción.
 
 - 💬 Sin comentarios.
-  - ¿Me repito?. MAL!!!
+  - ¿Me repito?. MAL!!! 😈
 
 ---
 

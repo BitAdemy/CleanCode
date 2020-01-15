@@ -1,4 +1,4 @@
-# Blocks
+# 📜 Blocks
 
 ## Estructuras
 
@@ -14,13 +14,11 @@
 
 - Envolver siempre entre llaves.
 
-- La condición de un sólo operador lógico.
+- La condición de un sólo operador lógico. En otro caso debe ser una función.
 
-- En otro caso debe ser una función.
+- Valorar retorno **anticipado** _vs_ retorno **unificado**
 
-- Valorar retorno **anticipado** vs retorno **unificado**
-
-- Evitar los switches.
+- Evitar los ~~switches~~.
 
 ## ➿ Repetitivas
 
@@ -30,11 +28,12 @@
 
 - Se permiten los índices clásicos `i, j`.
 
+---
+
 ## ⚠️ Límites
 
 - ✅1___2❌ _niveles de anidamiento_
 - ✅4___8❌ _instrucciones por bloque_
-
 
 > Obliga a extraer código a funciones
 
@@ -46,9 +45,11 @@
 - Menos anidamiento
 - **Cero** comentarios
 
+---
+
 > "Cada vez que escribas un comentario, debes sentirlo como un fallo de tu capacidad de expresión"
 >
-> -- **Robert C. Martin**
+> -- ✍️ **Robert C. Martin**
 
 ## 📝 Laboratorio
 

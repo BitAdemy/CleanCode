@@ -1,26 +1,30 @@
 # FUNCTION: Instrucciones, bloques y funciones.
-Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)
+
+### Muchas funciones pequeñas y bien nombradas.
 
 > "A veces, la implementación más elegante es solo una función. No es un método. No es una clase. No es un framework. Solo una función."
 >
-> -- **John Carmack**
+> -- ✍️ **John Carmack**
 
-## [Instrucciones](./instructions.md)
+---
+
+## [👉 Instrucciones](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/1-instructions.md)
 
 - Declaración, asignación e invocación...
 
-## [Bloques](./blocks.md)
+## [📜 Bloques](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/2-blocks.md)
 
 - Estructuras con instrucciones.
 
-## [Funciones](./functions.md)
+## [🎬 Funciones](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/3-functions.md)
 
 - Expresa claramente una intención.
 
-> El tiempo dedicado a la lectura es muy superior al de escritura.
+---
 
-> Leemos código antiguo para escribir código nuevo.
-
-> Facilitar la lectura es facilitar la escritura.
+> "El buen código es su mejor documentación"
 >
-> -- **Robert C. Martin**
+> -- ✍️ **Steve McConnell**
+
+
+Una lección de [Código Limpio.](https://github.com/BitAdemy/CleanCode)

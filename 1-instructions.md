@@ -1,4 +1,4 @@
-# Instructions
+# 👉 Instructions
 
 ## Orden en las sentencias
 
@@ -26,6 +26,8 @@
 
 - Llamar a métodos, subrutinas, procedimientos o funciones.
 
+---
+
 ## 👮 Atajos a vigilar
 
 - ⚠️ Operadores ternarios
@@ -38,9 +40,11 @@
 
     - `anObject && anObject.doSomething();`
 
-> No encadenar o agrupar estos atajos.
-> Usarlos sólo como una abreviación de casos muy simples.
-> Usar características del lenguaje para evitar tratar nulos y valores por defecto.
+> No encadenes o agrupes estos atajos.
+> Úsalos sólo como una abreviación de casos muy simples.
+> Usa características del lenguaje para evitar tratar nulos y valores por defecto.
+
+---
 
 ## 📝 Laboratorio
 
