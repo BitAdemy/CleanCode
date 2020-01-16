@@ -14,6 +14,8 @@
 - Los tests **son automáticos**.
 - Los tests **deben estar limpios**.
 
+--
+
 >"[Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)"
 > -- ✍️ **Kent C. Dodds**
 
@@ -21,18 +23,30 @@
 
 ### Si funciona...
 
-![No siempre pruebo mi código... pero cuando lo hago, es en producción](./assets/test-production.jpeg)
+![No siempre pruebo mi código... pero cuando lo hago, es en producción](https://academiabinaria.github.io/clean-code-TS/assets/test-production.jpeg)
 
 ---
 
-> - "¿Por qué los desarrolladores temen cambiar su código?
+> "¿Por qué los desarrolladores temen cambiar su código?
 >
-> + Porque ¡Tienen miedo a que se rompa!
+> Porque ¡Tienen miedo a que se rompa!
 >
-> - ¿Por qué tienen miedo de romperlo?
+> ¿Por qué tienen miedo de romperlo?
 >
-> + Porque no tienen pruebas.
+> Porque no tienen pruebas.
 >
-> - Si funciona, y tienes pruebas, tócalo."
+> Si funciona, y tienes pruebas, tócalo."
+>
+> -- ✍️ **Robert C. Martin**
+
+---
+
+## 📝 Laboratorio
+
+### Todo el código mostrado va acompañado de sus tests.
+
+https://github.com/LabsAdemy/CleanCodeLab/
+
+> "La verdad sólo se encuentra en un lugar: el código"
 >
 > -- ✍️ **Robert C. Martin**

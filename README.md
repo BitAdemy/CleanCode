@@ -1,21 +1,10 @@
 # CleanCode
-Curso para crear y rehacer aplicaciones limpias
+
+### Código limpio y artesanía del software
 
 > "Cualquiera puede escribir código para que lo entienda una **máquina**. Pero los programadores profesionales escriben código para que los **humanos** lo entiendan."
 >
 > -- ✍️ **Martin Fowler**
-
----
-
-## 🏁 Introducción
-
-**Programar es expresar procesos con detalle en un lenguaje no ambiguo**  que entiendan las máquinas.
-
-Pero también es usar ese lenguaje para **comunicar a otras personas la intención** de los procesos de forma que puedan ser leídos, entendidos y mejorados
-
-Las **técnicas de código limpio** ayudan a escribir programas sencillos de entender, que aportan valor y que pueden evolucionar.
-
-La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
@@ -41,41 +30,51 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
-## Introducción
+## 🏁 Introducción
 
-### [🤢 Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
+- **Programar es expresar procesos con detalle en un lenguaje no ambiguo**  que entiendan las máquinas.
 
-### [✔️ Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/software_que_funciona.md)
+- Pero también es **comunicar a otras personas la intención** de los procesos para ser corregidos, aumentados y mejorados.
+
+- Las **técnicas de código limpio** ayudan a escribir programas sencillos de entender y evolucionar.
+
+- La programación limpia es una técnica que **se puede aprender y practicar.**
 
 ---
 
-## Contenido: bitLessons
+### [🤢 Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
 
-### NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
+### [✅ Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/software_que_funciona.md)
+
+---
+
+## Contenido
+
+### 🏷️ NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
 
 - Reglas y herramientas de limpieza con estilo.
 - Claridad y consistencia para dar sentido con los nombres.
 
-### FUNCTION [Instrucciones, bloques y funciones.](https://github.com/BitAdemy/CleanCode/tree/FUNCTION)
+### 🔀 FUNCTION [Instrucciones, bloques y funciones.](https://github.com/BitAdemy/CleanCode/tree/FUNCTION)
 
 - Tipos de instrucciones y sus agrupaciones.
 - La función como pieza fundamental de composición.
 
 ---
 
-### DATA [Estructuras de datos.](https://github.com/BitAdemy/CleanCode/tree/DATA)
+### 🗂️ DATA [Estructuras de datos.](https://github.com/BitAdemy/CleanCode/tree/DATA)
 
 - Agrupaciones de información coherentes.
 - Impacto de las estructuras en los algoritmos.
 
-### OBJECT [Objetos y lógica de negocio.](https://github.com/BitAdemy/CleanCode/tree/OBJECT)
+### 📦 OBJECT [Objetos y lógica de negocio.](https://github.com/BitAdemy/CleanCode/tree/OBJECT)
 
 - Encapsulación de funcionalidad e información.
 - Crear objetos con clase y principios sólidos.
 
 ---
 
-### ARTISAN [Artesanía del software.](https://github.com/BitAdemy/CleanCode/tree/ARTISAN)
+### ✒️ ARTISAN [Artesanía del software.](https://github.com/BitAdemy/CleanCode/tree/ARTISAN)
 
 - Manifiesto artesano.
 - Valores, disciplina y profesionalismo.
