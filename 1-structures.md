@@ -19,8 +19,10 @@
 ## ⚠️ Límites
 
 - ✅1___2❌ _variables con tipos primitivos_
+- ✅2___8❌ _propiedades primitivas por estructura_
+- ✅2___8❌ _propiedades compuestas por estructura_
+- ✅1___4❌ _niveles de jerarquía_
 - ✅0___1❌ _niveles de herencia_
-- ✅2__16❌ _propiedades primitivas_
 
 ---
 

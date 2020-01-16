@@ -1,3 +1,6 @@
+---
+marp: true
+---
 # 🔱 Condiciones
 
 > "Algoritmos + Estructuras de datos = Programas"
@@ -8,11 +11,11 @@
 
 ## 🔨 Usa estructuras de datos que eviten el uso de estructuras condicionales
 
-### _El `if` y sobre todo el `switch` huelen mal_
+### El `if` y sobre todo el `switch` huelen mal 🤢
 
-- Reduce los if evitando flags en las funciones.
-- Sustituye un switch por un objeto, un array o un mapa.
-
+- Reduce los `if` evitando 🚩 flags en las funciones.
+- Sustituye un 🔱`switch` por un objeto, un array o un mapa.
+- Incluso valora cambiar un 🔱`switch` por un sistema de clases con ~~herencia~~ 🙃.
 
 ---
 
