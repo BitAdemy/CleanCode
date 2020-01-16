@@ -1,11 +1,11 @@
 # S.O.L.I.D.
 ### Principios sólidos para finales flexibles
 
-> "Al diseñar nuestras clases debemos juntar las características relacionadas,
-> de modo que cada vez que cambien sea por la misma razón.
-> Y deberíamos separar las características que cambian por diferentes razones."
+> "No caigas en la flexibilidad innecesaria."
 >
-> -- ✍️ **Steve Fenton**
+> -- ✍️ **Steve Maguire-**
+
+_Cuidado: recuerda el KISS 💋 vs YAGNI 🚫_
 
 ---
 

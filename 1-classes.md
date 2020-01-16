@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Clases
 ### Orden en las propiedades y funciones
 
