@@ -29,8 +29,9 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ---
 
-![Tabs vs Spaces](./assets/tabs_vs_spaces.png)
+![Tabs vs Spaces](https://github.com/BitAdemy/CleanCode/raw/NAME/assets/tabs_vs_spaces.png)
 
+---
 
 - ⚔️ Evita conflictos trasladando la decisión a otros:
 

@@ -10,26 +10,25 @@
 
 ### Mostrar la INTENCIÓN
 
-    - Explicar qué se va a almacenar.
-
-- Emplear siempre palabras completas y descriptivas.
-- Para que sean pronunciables y corregibles ortográficamente.
+#### 🏬 Explica lo que vas a almacenar.
 
 ---
-
 
 ### Para variables / propiedades / constantes / clases
 
-- Vocabulario de **entidades y propiedades** de negocio.
+- Emplear siempre palabras **completas** y descriptivas.
 
-- Sin prefijos o sufijos técnicos.
+- Para que sean **pronunciables y corregibles** ortográficamente.
+
+- 📚 Vocabulario de **entidades y propiedades** de negocio.
+
+- **Sin** prefijos o sufijos técnicos.
 
 - Lo siento Harry, pero mejor sin magia. 🧙
 
-
 ---
 
-![wtf-naming](./assets/naming.png)
+![wtf-naming](https://github.com/BitAdemy/CleanCode/raw/NAME/assets/naming.png)
 
 ### 🔮 Reduce WTF!
 

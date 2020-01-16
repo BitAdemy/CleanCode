@@ -10,10 +10,10 @@
 
 ### Mostrar la INTENCIÓN
 
-    - Explicar qué se hace.
+#### 🏭 Explica lo que vas a hacer.
 
 - Emplear siempre verbos que indique una acción.
-- Para que se lea como una historia.
+- Para que se lea como una historia.📜
 
 ---
 
@@ -27,9 +27,9 @@
 
 - Define listas permitidas para acciones comunes.
 
- `get | set, read | write, select | insert`
+ `get | set  - read | write - select | insert`
 
-- Clarifica añadiendo sustantivos, adverbios o preposiciones.
+- Clarifica añadiendo sustantivos, adverbios o preposiciones. ❇️
 
 ---
 
@@ -47,5 +47,3 @@ https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/verbs
 > "La verdad sólo se encuentra en un lugar: el código"
 >
 > -- ✍️ **Robert C. Martin**
-
-[![Edit clean_code-name](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/cleancode-names-9r32n?fontsize=14&hidenavigation=1&theme=dark)
