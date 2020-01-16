@@ -1,4 +1,4 @@
-# Clases
+# 🧱 Clases
 ### Orden en las propiedades y funciones
 
 > "Al diseñar nuestras clases debemos juntar las características relacionadas,

@@ -1,4 +1,4 @@
-# S.O.L.I.D.
+# ⚒️ S.O.L.I.D.
 ### Principios sólidos para finales flexibles
 
 > "No caigas en la flexibilidad innecesaria."
@@ -17,7 +17,7 @@ _Cuidado: recuerda el KISS 💋 vs YAGNI 🚫_
 
 ## SRP : Single responsibility principle
 
-**Principio de responsabilidad única.**
+### Principio de responsabilidad única.
 Un objeto solo debería tener una única responsabilidad, o razón para cambiar.
 
 ---
@@ -26,7 +26,7 @@ Un objeto solo debería tener una única responsabilidad, o razón para cambiar.
 
 ## OCP : Open/closed principle
 
-**Principio de abierto/cerrado.**
+### Principio de abierto/cerrado.
 Las entidades de software deben estar abiertas para su extensión, pero cerradas para su modificación.
 
 ---
@@ -35,7 +35,7 @@ Las entidades de software deben estar abiertas para su extensión, pero cerradas
 
 ## LSP : Liskov substitution principle
 
-**Principio de sustitución de Liskov.**
+### Principio de sustitución de Liskov.
 Los objetos deberían ser reemplazables por subtipos sin alterar el funcionamiento del programa.
 
 ---
@@ -44,7 +44,7 @@ Los objetos deberían ser reemplazables por subtipos sin alterar el funcionamien
 
 ## ISP : Interface segregation principle
 
-**Principio de segregación de la interfaz.**
+### Principio de segregación de la interfaz.
 Muchas interfaces específicas son mejores que una interfaz de propósito general.​
 
 ---
@@ -53,7 +53,7 @@ Muchas interfaces específicas son mejores que una interfaz de propósito genera
 
 ## DIP : Dependency inversion principle
 
-**Principio de inversión de la dependencia.**
+### Principio de inversión de la dependencia.
 Depender de abstracciones, no de implementaciones concretas. Resolver en ejecución usando la Inyección de Dependencias.
 
 ---
