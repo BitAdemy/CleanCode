@@ -8,7 +8,13 @@
 
 ## 🔨 Usa estructuras de datos que eviten el uso de estructuras condicionales
 
-_El `if` y sobre todo el `switch` huelen mal_
+### _El `if` y sobre todo el `switch` huelen mal_
+
+- Reduce los if evitando flags en las funciones.
+- Sustituye un switch por un objeto, un array o un mapa.
+
+
+---
 
 ![Estructuras de datos por todas partes](./assets/data-everywhere.jpg)
 

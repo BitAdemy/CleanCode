@@ -13,7 +13,7 @@
 
 - Agrupación de variables con sentido de negocio...
 
-## [🔱 Estructuras condicionales](./algorithms.md)
+## [🔱 Estructuras condicionales](./2-algorithms.md)
 
 - Simplificación de algoritmos...
 
