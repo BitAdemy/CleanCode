@@ -1,36 +1,24 @@
-# OBJECT: Abstracciones de lógica.
+# ARTISAN: La mejora constante.
 
-### Muchas clases pequeñas bien encapsuladas
+### Profesionalismo, pragmatismo y orgullo.
 
-> "La encapsulación es importante.
-> Pero la razón por la cual es importante es aún más importante.
-> La encapsulación nos ayuda a razonar sobre nuestro código".
+> "Primero hazlo, luego hazlo bien, luego hazlo mejor."
 >
-> -- ✍️ **Michael C. Feathers**.
+> -- ✍️ **Addy Osmani**.
 
 ---
 
-## [🧱 Las CLASES](./1-classes.md)
+## [📝 Manifiesto](./1-manifest.md)
 
-- Agrupación de funciones con sentido de negocio...
+- Del manifiesto ágil al artesano.
 
-## [⚒️ Principios SOLID](./2-solid.md)
+## [✒️ Un/a Artesano/a](./2-artisan.md)
 
-- Principios para organizar clases...
-
-[Visualizing Refactoring](https://twitter.com/LlewellynFalco/status/633363986273189888)
+- Disciplina y buenos hábitos.
 
 ---
 
-> "Los objetos protegen sus datos detrás de abstracciones y exponen las funciones que operan con esos datos."
+> "No importa lo lento vayas mientras no te detengas".
 >
-> -- **Robert C. Martin**
+> -- ✍️ **Confucio**
 
----
-## 📝 Laboratorio
-
-https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION
-
->"La verdad sólo se encuentra en un lugar: el código"
->
->-- ✍️ Robert C. Martin
