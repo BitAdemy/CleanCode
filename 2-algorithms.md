@@ -1,6 +1,3 @@
----
-marp: true
----
 # 🔱 Condiciones
 
 > "Algoritmos + Estructuras de datos = Programas"
