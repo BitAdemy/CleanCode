@@ -35,6 +35,17 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 - Cliente GIT y conocimientos básicos...
 
+---
+
+![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
+
+---
+
+## Introducción
+
+### [🤢 Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
+
+### [✔️ Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/software_que_funciona.md)
 
 ---
 
@@ -71,20 +82,6 @@ La programación limpia es una técnica que **se puede aprender y practicar*.
 
 ---
 
-![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
-
-## [Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
-
-## [Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/software_que_funciona.md)
-
----
-
 > "El código limpio parece escrito por alguien a quien le importa."
 >
 > -- ✍️ **Robert C. Martin**
-
-## En bitAdemy
-
-https://bitademy.com/clean-code/
-
----
