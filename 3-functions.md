@@ -13,13 +13,17 @@
 - ♻️ Cuanto más pequeñas más reutilizables.
 - 💪 Con **verbos** en su nombre que indiquen propósito
 - 🐫 _DRY_: Don´t Repeat yourself.
+- 🥚 con valores por defecto si el lenguaje los soporta.
+- 🧐 sin condiciones complejas.
+- 🚩 ...sin flags: crea dos variantes con nombre específico.
 - 💬 ...sin comentarios.
 
-
+---
 
 ## ⚠️ Límites
 
-- ✅2_____4❌ _argumentos_
+- ✅0_____0❌ _flags_
+- ✅1_____2❌ _argumentos_
 - ✅8____12❌ _complejidad ciclomática_
 - ✅16___24❌ _instrucciones_
 
@@ -45,18 +49,12 @@
 
     - 🎏 evita argumentos _flag_ usando múltiples funciones específicas.
 
-    - asigna valores por defecto si el lenguaje los soporta.
-
     - favorece objetos en lugar de ~~primitivos~~.
 
 - ### 1️⃣ un mismo nivel de abstracción: delega en funciones privadas
 
-    - las instrucciones en funciones públicas deben llamar a funciones privadas.
+    - las instrucciones en funciones públicas deberían llamar a funciones privadas.
 
-- ### ❎ retornando datos; nunca errores.
-
-    - los errores tienen su propio flujo mediante `try-catch throw`.
-    - si el lenguaje no lo permite, usar convenio tipo `(err, data)`.
 ---
 
 ## 🎯 Objetivo: Muchas Pequeñas Funciones Organizadas
@@ -66,6 +64,11 @@
     - ## 🦄 un sólo propósito.
 
     - ... o al menos un mismo nivel de abstracción.
+
+- ❎ retornando datos; nunca errores.
+
+    - los errores tienen su propio flujo mediante `try-catch throw`.
+    - si el lenguaje no lo permite, usar convenio tipo `(err, data)`.
 
 - 💬 Sin comentarios.
   - ¿Me repito?. MAL!!! 😈
