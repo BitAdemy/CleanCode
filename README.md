@@ -1,6 +1,6 @@
 # NAME: Estilo y nombrado.
 
-## Claridad con el menor esfuerzo.
+### Claridad con el menor esfuerzo.
 
 > "Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar las cosas"
 >
