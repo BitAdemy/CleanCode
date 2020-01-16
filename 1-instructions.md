@@ -1,6 +1,6 @@
 # 👉 Instructions
 
-## Orden en las sentencias
+### Orden en las sentencias
 
 > "No soy un gran programador; Solo soy un buen programador con buenos hábitos"
 >
