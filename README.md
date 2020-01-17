@@ -11,11 +11,11 @@
 
 ## [🗃️ Cohesion de primitivos](https://github.com/BitAdemy/CleanCode/tree/DATA/1-cohesion_de_primitivos.md)
 
-- Agrupación de variables con sentido de negocio...
+- Agrupación de variables con sentido de negocio.
 
 ## [🔱 Condiciones y algoritmos](https://github.com/BitAdemy/CleanCode/tree/DATA/2-condiciones_y_algoritmos.md)
 
-- Simplificación de algoritmos...
+- Simplificación de algoritmos.
 
 ---
 

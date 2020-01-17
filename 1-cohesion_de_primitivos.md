@@ -1,5 +1,7 @@
 # 🗃️ Cohesion de primitivos
 
+### Agrupación de variables con sentido de negocio.
+
 > "Asigna un valor de negocio a lo que son datos sueltos."
 >
 > -- ✍️ **Alguien que ha programado mucho**

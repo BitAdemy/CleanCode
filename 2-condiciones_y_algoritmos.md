@@ -1,5 +1,7 @@
 # 🔱 Condiciones y algoritmos
 
+### Simplificación de algoritmos.
+
 > "Algoritmos + Estructuras de datos = Programas"
 >
 > -- ✍️ **Niklaus Wirth**
