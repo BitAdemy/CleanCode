@@ -1,6 +1,6 @@
-# 👉 Instructions
+# 👉 Declaración, asignación e invocación
 
-### Orden en las sentencias
+### Instrucciones: Claridad desde el interior.
 
 > "No soy un gran programador; Solo soy un buen programador con buenos hábitos"
 >

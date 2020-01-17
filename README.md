@@ -1,4 +1,4 @@
-# 🔀 FUNCTION: Instrucciones, bloques y funciones.
+# 🔀 FUNCTION: Organización de sentencias.
 
 ### Organización de sentencias.
 
@@ -8,17 +8,17 @@
 
 ---
 
-## [👉 Instrucciones](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/1-instructions.md)
+## [👉 Declaración, asignación e invocación](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/1-declaracion_asignacion_e_invocacion.md)
 
-- Declaración, asignación e invocación...
+- Instrucciones: Claridad desde el interior.
 
-## [📜 Bloques](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/2-blocks.md)
+## [📜 Estructuras repetitivas y condicionales](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/2-estructuras_repetitivas_y_condicionales.md)
 
-- Estructuras con instrucciones.
+- Bloques: Aquí vive la lógica.
 
-## [🧩 Funciones](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/3-functions.md)
+## [🧩 Funciones puras y métodos de clase](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/3-funciones_puras_y_metodos_de_clase.md)
 
-- Expresa claramente una intención.
+- Funciones: Pequeñas piezas para organizar programas.
 
 ---
 

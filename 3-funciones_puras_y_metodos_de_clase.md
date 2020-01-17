@@ -1,6 +1,6 @@
-# 🧩 Functions
+# 🧩 Funciones puras y métodos de clase
 
-## Pequeñas piezas para organizar programas.
+### Funciones: Pequeñas piezas para organizar programas.
 
 > "Una función debería hacer una sola cosa, hacerla bien, y hacerla sólo ella".
 >
