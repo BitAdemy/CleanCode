@@ -1,4 +1,4 @@
-# ✒️ Un/a Artesano/a
+# ✒️ Disciplina y buenos hábitos.
 
 ### Ni artista 👩‍🎨 ni operario/a 👨‍🏭
 

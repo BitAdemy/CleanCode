@@ -1,15 +1,10 @@
-# 📝 Manifiesto
-### Cómo se hace es tan importante como hacerlo
+# 📝 Hacer las cosas bien
 
-> "Caminar sobre el agua
+### Del manifiesto ágil al artesano.
+
+> "Deja siempre el campamento más limpio de lo que estaba."
 >
-> y escribir software para una especificación
->
-> es muy fácil,
->
-> si ambos están congelados."
->
-> -- ✍️ **Edward V. Berard**
+> -- ✍️ **La regla del BoyScout**
 
 ---
 
@@ -22,8 +17,6 @@
 ### **Colaboración con el cliente** sobre negociación contractual
 
 ### **Respuesta ante el cambio** sobre seguir un plan.
-
-###  **Manifiesto por el Desarrollo Ágil de Software**.
 
 ---
 
