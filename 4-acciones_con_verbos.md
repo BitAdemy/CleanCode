@@ -1,5 +1,7 @@
 # 💪 Acciones con verbos
 
+### Creamos un idioma para nuestro negocio.
+
 > "Expresa la lógica con verbos."
 >
 > -- ✍️ **Quien lo vaya a leer**

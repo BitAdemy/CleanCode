@@ -1,5 +1,7 @@
 # 📏 Tamaños y límites
 
+### Homogéneo, sin sobresaltos.
+
 > "No me gusta usar las barras de desplazamiento para leer tu código."
 >
 > -- ✍️ **Quien lo vaya a leer**

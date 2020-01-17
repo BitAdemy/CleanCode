@@ -1,6 +1,6 @@
-# 🏷️ NAME: Estilo y nombrado.
+# 🏷️ NAME: Claridad con el menor esfuerzo.
 
-### Claridad con el menor esfuerzo.
+### Estilo y nombrado.
 
 > "Solo hay dos cosas difíciles en Informática: invalidar la caché y nombrar las cosas"
 >
@@ -10,7 +10,7 @@
 
 ## [✨ 1 - Estilo y orden](https://github.com/BitAdemy/CleanCode/tree/NAME/1-estilo_y_orden.md)
 
-- Código agradable, bonito, elegante...
+- Código agradable, bonito, elegante.
 
 ## [📏 2 - Tamaños y límites](https://github.com/BitAdemy/CleanCode/tree/NAME/2-tamanos_y_limites.md)
 

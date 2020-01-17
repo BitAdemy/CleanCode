@@ -1,5 +1,7 @@
 # 📫 Definiciones con sustantivos
 
+### Expresa claramente una intención.
+
 > "Da sentido mediante los nombres."
 >
 > -- ✍️ **Quien lo vaya a leer**
