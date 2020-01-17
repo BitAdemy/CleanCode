@@ -1,4 +1,4 @@
-# 🔱 Condiciones
+# 🔱 Condiciones y algoritmos
 
 > "Algoritmos + Estructuras de datos = Programas"
 >

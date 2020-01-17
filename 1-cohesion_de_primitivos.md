@@ -1,4 +1,4 @@
-# 🗃️ Estructuras
+# 🗃️ Cohesion de primitivos
 
 > "Asigna un valor de negocio a lo que son datos sueltos."
 >

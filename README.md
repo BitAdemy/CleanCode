@@ -1,4 +1,4 @@
-# DATA: Abstracciones de información.
+# 🗂️ DATA: Abstracciones de información.
 
 ### Cohesiona variables y reduce la complejidad
 
@@ -9,11 +9,11 @@
 
 ---
 
-## [🗃️ Estructuras de DATOS](./1-structures.md)
+## [🗃️ Cohesion de primitivos](https://github.com/BitAdemy/CleanCode/tree/DATA/1-cohesion_de_primitivos.md)
 
 - Agrupación de variables con sentido de negocio...
 
-## [🔱 Estructuras condicionales](./2-algorithms.md)
+## [🔱 Condiciones y algoritmos](https://github.com/BitAdemy/CleanCode/tree/DATA/2-condiciones_y_algoritmos.md)
 
 - Simplificación de algoritmos...
 
