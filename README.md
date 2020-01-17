@@ -1,6 +1,6 @@
-# FUNCTION: Instrucciones, bloques y funciones.
+# 🔀 FUNCTION: Instrucciones, bloques y funciones.
 
-### Muchas funciones pequeñas y bien nombradas.
+### Organización de sentencias.
 
 > "El buen código es su mejor documentación."
 >
