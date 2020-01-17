@@ -1,5 +1,6 @@
-# 🧱 Clases
-### Orden en las propiedades y funciones
+# 🧱 Cohesión de funciones
+
+### Clases: Agrupación de funciones con sentido de negocio.
 
 > "Al diseñar nuestras clases debemos juntar las características relacionadas,
 > de modo que cada vez que cambien sea por la misma razón.

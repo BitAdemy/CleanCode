@@ -1,5 +1,6 @@
-# ⚒️ S.O.L.I.D.
-### Principios sólidos para finales flexibles
+# ⚒️ Principios sólidos para finales flexibles.
+
+### SOLID: Principios para organizar clases.
 
 > "No caigas en la flexibilidad innecesaria."
 >
