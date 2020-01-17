@@ -1,16 +1,16 @@
 # 🤢 Perdona pero... tu código huele.
 
+### Lo primero es admitir que todo código es mejorable.
+
 > "Primero hazlo, después hazlo bien y luego hazlo mejor."
 >
 > -- ✍️ **Addy Osmani**
 
 ---
 
-- Lo primero es admitir que **todo código es mejorable.**
+- Tu código es mejorable; y el mío también. 😳
 
-- 😳 El tuyo también; y por supuesto que el mío también.
-
-- A ese código mejorable le decimos que... huele mal.
+- A ese código mejorable le decimos que... huele mal. 🤢
 
 ---
 

@@ -42,11 +42,13 @@
 
 ---
 
-### [🤢 Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/perdona_pero_tu_codigo_huele.md)
+### [🤢 Perdona pero... tu código huele](https://github.com/BitAdemy/CleanCode/blob/master/1-perdona_pero_tu_codigo_huele.md)
 
-### [✅ Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/software_que_funciona.md)
+- Lo primero es admitir que todo código es mejorable.
 
----
+### [✅ Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/2-software_que_funciona.md)
+
+--- Mejora tu código sin miedo.
 
 ## Contenido
 
