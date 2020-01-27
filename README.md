@@ -14,7 +14,7 @@
 
 - Clases: Agrupación de funciones con sentido de negocio.
 
-## [⚒️ Principios sólidos para finales flexibles]((https://github.com/BitAdemy/CleanCode/tree/OBJECT/2-principios_solidos_para_finales_flexibles.md)
+## [⚒️ Principios sólidos para finales flexibles](https://github.com/BitAdemy/CleanCode/tree/OBJECT/2-principios_solidos_para_finales_flexibles.md)
 
 - SOLID: Principios para organizar clases.
 
