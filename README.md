@@ -24,6 +24,12 @@
 
 - Cliente GIT y conocimientos básicos...
 
+## 👨‍🏫 Cursos con instructor
+
+### 🏫 Presenciales: [VitaeDigital](http://www.vitaedigital.com/proyectos-de-formacion?q=clean+code)
+
+### 🖥️ On-line: [bit_Ademy](https://aula.bitademy.com/p/codigo-limpio/?product_id=1613324)
+
 ---
 
 ![La métrica real del buen código](https://academiabinaria.github.io/clean-code-TS/assets/clean-code_wtf.jpg)
