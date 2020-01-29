@@ -92,3 +92,8 @@
 > "El código limpio parece escrito por alguien a quien le importa."
 >
 > -- ✍️ **Robert C. Martin**
+
+---
+
+[![bit_ademy](./assets/bit_ademy.png)](https://bitademy.com)
+[![vitae](./assets/vitae.png)](https://vitaedigital.com)
