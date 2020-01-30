@@ -61,4 +61,4 @@ Depender de abstracciones, no de implementaciones concretas. Resolver en ejecuci
 
 ## 📝 Laboratorio
 
-[![Edit clean_code-object](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/blissful-shape-hjv8p?fontsize=14&hidenavigation=1&previewwindow=tests&theme=dark)
+https://github.com/LabsAdemy/CleanCodeLab/tree/OBJECT/src/examples/

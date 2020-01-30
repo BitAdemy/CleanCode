@@ -29,7 +29,9 @@
 ---
 ## 📝 Laboratorio
 
-https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION
+https://github.com/LabsAdemy/CleanCodeLab/tree/OBJECT
+
+https://github.com/LabsAdemy/CleanCodeLab/tree/OBJECT/src/tasks
 
 >"La verdad sólo se encuentra en un lugar: el código"
 >
