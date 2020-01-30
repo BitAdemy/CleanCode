@@ -18,6 +18,15 @@
 
 ---
 
+## Todo está en los libros:
+
+### Clean Code _(Robert C. Martin.)_
+### Extreme Programming _(Kent Beck)_
+### Refactoring _(Martin Fowler)_
+### The pragmatic programmer _(Hunt & Thomas)_
+### The Software Craftsman _(Sandro Mancuso)_
+---
+
 > "No importa lo lento vayas mientras no te detengas".
 >
 > -- ✍️ **Confucio**
