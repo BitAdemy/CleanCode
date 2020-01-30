@@ -71,7 +71,7 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ## 📝 Laboratorio
 
-https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/size.md
+https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/docs/size-config.md
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >

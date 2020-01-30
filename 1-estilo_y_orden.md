@@ -50,7 +50,7 @@
 
 ## 📝 Laboratorio
 
-https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/style.md
+https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/docs/style-config.md
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >

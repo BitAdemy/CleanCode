@@ -44,7 +44,7 @@
 
 ## 📝 Laboratorio
 
-https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/verbs
+https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/examples/2-verbs
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >

@@ -45,7 +45,8 @@
 
 ## 📝 Laboratorio
 
-https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/nouns
+https://github.com/LabsAdemy/CleanCodeLab/blob/NAME/docs/jest-tests.md
+https://github.com/LabsAdemy/CleanCodeLab/tree/NAME/src/examples/1-nouns
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
