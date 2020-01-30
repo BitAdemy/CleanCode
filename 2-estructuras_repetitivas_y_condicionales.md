@@ -1,7 +1,6 @@
-# 📜 Blocks
+# 📜 Estructuras repetitivas y condicionales
 
-## Estructuras
-
+### Bloques: Aquí vive la lógica.
 
 > "Cada vez que escribas un comentario, debes sentirlo como un fallo de tu capacidad de expresión"
 >
