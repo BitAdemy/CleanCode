@@ -2,6 +2,10 @@
 
 ### Código limpio y artesanía del software
 
+[![vitae](./assets/vitae.png)](https://vitaedigital.com)
+
+## VIGO Enero 2020
+
 > "Cualquiera puede escribir código para que lo entienda una **máquina**. Pero los programadores profesionales escriben código para que los **humanos** lo entiendan."
 >
 > -- ✍️ **Martin Fowler**
@@ -96,4 +100,3 @@
 ---
 
 [![bit_ademy](./assets/bit_ademy.png)](https://bitademy.com)
-[![vitae](./assets/vitae.png)](https://vitaedigital.com)
