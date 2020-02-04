@@ -1,6 +1,3 @@
----
-marp: true
----
 <!-- ## https://github.com/BitAdemy/CleanCode -->
 
 # Código limpio y artesanía del software
