@@ -1,12 +1,11 @@
-# CleanCode
+---
+marp: true
+---
+<!-- ## https://github.com/BitAdemy/CleanCode -->
 
-## https://github.com/BitAdemy/CleanCode
+# Código limpio y artesanía del software
 
-### Código limpio y artesanía del software
 
-[![vitae](./assets/vitae.png)](https://vitaedigital.com)
-
-## VIGO Enero 2020
 
 > "Cualquiera puede escribir código para que lo entienda una **máquina**. Pero los programadores profesionales escriben código para que los **humanos** lo entiendan."
 >
@@ -30,11 +29,11 @@
 
 - Cliente GIT y conocimientos básicos...
 
-## 👨‍🏫 Cursos con instructor
+<!-- ## 👨‍🏫 Cursos con instructor
 
 ### 🏫 Presenciales: [VitaeDigital](http://www.vitaedigital.com/proyectos-de-formacion?q=clean+code)
 
-### 🖥️ On-line: [bit_Ademy](https://aula.bitademy.com/p/codigo-limpio/?product_id=1613324)
+### 🖥️ On-line: [bit_Ademy](https://aula.bitademy.com/p/codigo-limpio/?product_id=1613324) -->
 
 ---
 
@@ -60,9 +59,11 @@
 
 ### [✅ Software que funciona](https://github.com/BitAdemy/CleanCode/blob/master/2-software_que_funciona.md)
 
---- Mejora tu código sin miedo.
+- Mejora tu código sin miedo.
 
-## Contenido
+---
+
+<!-- ## Contenido -->
 
 ### 🏷️ NAME [Estilo y nombrado.](https://github.com/BitAdemy/CleanCode/tree/NAME)
 
@@ -102,3 +103,6 @@
 ---
 
 [![bit_ademy](./assets/bit_ademy.png)](https://bitademy.com)
+ ✍️ **Alberto Basalo**
+ <!-- [![vitae](./assets/vitae.png)](https://vitaedigital.com)
+## VIGO Enero 2020 -->
