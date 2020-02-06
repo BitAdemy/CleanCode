@@ -14,7 +14,7 @@
 
 #### 🏭 Explica lo que vas a hacer.
 
-- Emplear siempre verbos que indique una acción.
+- Emplear siempre verbos que indiquen una acción.
 - Para que se lea como una historia.📜
 
 ---
@@ -35,10 +35,11 @@
 
 ---
 
-### 🤔 Piensa en mi
+## 🤔 Piensa en mi
 
-- 😲 No me sorprendas
-- 😕 No me hagas pensar
+### 😲 No me sorprendas
+### 😕 No me hagas pensar
+
 
 ---
 

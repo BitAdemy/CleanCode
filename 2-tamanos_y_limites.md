@@ -14,7 +14,7 @@
 - **Opción**: vamos a fijar valores razonables.
 - **Sentido**: vamos a incumplirlas... pero a sabiendas.
 
-Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
+> Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ## ⚠️Límites
 
@@ -35,7 +35,7 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ---
 
-- ⚔️ Evita conflictos trasladando la decisión a otros:
+### ⚔️ Evita conflictos trasladando la decisión a otros:
 
   - Tabs vs Spaces
   - Comillas simples o dobles
@@ -43,7 +43,7 @@ Define unas reglas y haz que se cumplan señalando lo que es incorrecto.
 
 ---
 
-- 🛠 Herramientas de limpieza
+### 🛠 Herramientas de limpieza
 
   - [Prettier](https://prettier.io/)
   - [Beautify](https://www.npmjs.com/package/js-beautify)

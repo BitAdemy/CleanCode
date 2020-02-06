@@ -12,7 +12,7 @@
 
 > Algo que agrada a tus sentidos.
 
-- Cualidad subjetiva... no valoramos el tema de color... aunque el mío es más chulo.
+- Cualidad subjetiva. No valoramos el tema de color... aunque el mío es más chulo.😎
 
 - Características objetivas.
 
@@ -22,22 +22,21 @@
 
 ---
 
-- 🚥 Belleza **horizontal**
+### 🚥 Belleza **horizontal**
 
-  - Sangría en **bloques**
-  - Espaciado en **expresiones**
+  - Sangría y llaves en **bloques**
   - Tamaño de las **líneas**
 
-- 🚦 Belleza **vertical**
+### 🚦 Belleza **vertical**
 
   - **Orden** de las variables o propiedades
   - **Orden** de las funciones o métodos:
-    - público -> privado
-    - newsletter
+    - revelador: públicos -> privados
+    - newsletter: público -> privados -> público -> privados
 
 ---
 
-- 🔬 Belleza **interna**
+### 🔬 Belleza **interna**
 
   - **Separadores** de listas e instrucciones
   - **Espacios** en las expresiones
