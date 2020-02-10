@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # 👉 Declaración, asignación e invocación
 
 ### Instrucciones: Claridad desde el interior.
@@ -47,11 +51,11 @@
 > Usa características del lenguaje para evitar tratar nulos y valores por defecto.
 
 ---
-
+<!--
 ## 📝 Laboratorio
 
 https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/1-instructions
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
-> -- ✍️ **Robert C. Martin**
+> -- ✍️ **Robert C. Martin** -->

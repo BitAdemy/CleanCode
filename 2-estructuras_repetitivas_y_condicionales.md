@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # 📜 Estructuras repetitivas y condicionales
 
 ### Bloques: Aquí vive la lógica.
@@ -12,9 +16,9 @@
 
 - ⚠️ Usar ternarios sólo en casos triviales.
 
-- Envolver siempre entre llaves.
+- Envolver siempre 🔑 entre llaves.🗝
 
-- La condición de un sólo operador lógico. En otro caso debe ser una función.
+- La condición de 1️⃣ sólo operador lógico. En otro caso debe ser una función.
 
 - Valorar retorno **anticipado** _vs_ retorno **unificado**
 
@@ -22,7 +26,7 @@
 
 ## ➿ Repetitivas
 
-- La condición de ruptura un sólo operador lógico.
+- La condición de ruptura 1️⃣ sólo operador lógico.
 
 - Las variables locales deben ser legibles.
 
@@ -45,11 +49,11 @@
 - 💬 **Cero** necesidad de comentarios
 
 ---
-
+<!--
 ## 📝 Laboratorio
 
 https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/2-blocks
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
-> -- ✍️ **Robert C. Martin**
+> -- ✍️ **Robert C. Martin** -->

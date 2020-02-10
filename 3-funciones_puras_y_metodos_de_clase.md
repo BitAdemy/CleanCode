@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # 🧩 Funciones puras y métodos de clase
 
 ### Funciones: Pequeñas piezas para organizar programas.
@@ -90,11 +94,11 @@
 > -- ✍️ **Robert C. Martin**
 
 ---
-
+<!--
 ## 📝 Laboratorio
 
 https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/3-functions
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
-> -- ✍️ **Robert C. Martin**
+> -- ✍️ **Robert C. Martin** -->
