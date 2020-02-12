@@ -1,8 +1,4 @@
----
-marp: true
----
-
-# 📜 Estructuras repetitivas y condicionales
+# ➰ Estructuras repetitivas y condicionales
 
 ### Bloques: Aquí vive la lógica.
 
@@ -20,7 +16,7 @@ marp: true
 
 - La condición de 1️⃣ sólo operador lógico. En otro caso debe ser una función.
 
-- Valorar retorno **anticipado** _vs_ retorno **unificado**
+- Valorar retorno **anticipado** _vs_ retorno **unificado.**
 
 - Evitar los ~~switches~~.
 
@@ -28,7 +24,7 @@ marp: true
 
 - La condición de ruptura 1️⃣ sólo operador lógico.
 
-- Las variables locales deben ser legibles.
+- Las variables **locales** deben ser legibles.
 
 - Se permiten los índices clásicos `i, j`.
 
@@ -49,11 +45,11 @@ marp: true
 - 💬 **Cero** necesidad de comentarios
 
 ---
-<!--
+
 ## 📝 Laboratorio
 
 https://github.com/LabsAdemy/CleanCodeLab/tree/FUNCTION/src/examples/2-blocks
 
 > "La verdad sólo se encuentra en un lugar: el código"
 >
-> -- ✍️ **Robert C. Martin** -->
+> -- ✍️ **Robert C. Martin**

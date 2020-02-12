@@ -12,7 +12,7 @@
 
 - Instrucciones: Claridad desde el interior.
 
-## [📜 Estructuras repetitivas y condicionales](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/2-estructuras_repetitivas_y_condicionales.md)
+## [➰ Estructuras repetitivas y condicionales](https://github.com/BitAdemy/CleanCode/tree/FUNCTION/2-estructuras_repetitivas_y_condicionales.md)
 
 - Bloques: Aquí vive la lógica.
 
@@ -26,6 +26,7 @@
 >
 > -- ✍️ **John Carmack**
 
+---
 
 ## 📝 Laboratorio
 
