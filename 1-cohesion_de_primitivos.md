@@ -1,6 +1,6 @@
 # 🗃️ Cohesion de primitivos
 
-### Agrupación de variables con sentido de negocio.
+## Agrupación de variables con sentido de negocio.
 
 > "Asigna un valor de negocio a lo que son datos sueltos."
 >
@@ -8,13 +8,13 @@
 
 ---
 
-### 😶 Sin comportamiento de negocio: poca o ninguna función
+## 😶 Sin comportamiento de negocio: poca o ninguna función
 
-### 💞 Cohesionan variables relacionadas
+## 💞 Cohesionan variables relacionadas
 
-### 📦 Suelen tener nombres de Entidades
+## 📦 Suelen tener nombres de Entidades
 
-### 👴 _Composición_ mejor que ~~herencia~~
+## 👴 _Composición_ mejor que ~~herencia~~
 
 ---
 
