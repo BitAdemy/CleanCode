@@ -1,6 +1,10 @@
+---
+marp: true
+---
+
 # 🧱 Cohesión de funciones
 
-### Clases: Agrupación de funciones con sentido de negocio.
+## Clases: Agrupación de funciones con sentido de negocio.
 
 > "Al diseñar nuestras clases debemos juntar las características relacionadas,
 > de modo que cada vez que cambien sea por la misma razón.
@@ -10,22 +14,23 @@
 
 ---
 
-### 👓 Los objetos encapsulan La Lógica
+## 👓 Los objetos encapsulan La Lógica
 
-### 📦 Usan estructuras de datos
+## 📦 Usan estructuras de datos
 
-### 👯 Cohesionan funciones relacionadas
+## 👯 Cohesionan funciones relacionadas
 
-### 💑 Relacionan unas entidades con otras.
+## 💑 Relacionan unas entidades con otras.
 
-### 👵 _Interfaces_ mejor que ~~herencia~~
+## 👵 _Interfaces_ mejor que ~~herencia~~
 
 ---
 
 ## ⚠️ Límites
 
 - ✅8_____16❌ _propiedades y métodos públicos_
-- ✅0______1❌ _argumentos por método_
+- ✅0______2❌ _argumentos por método_
+- ✅0______1❌ _niveles de herencia_
 - ✅100__200❌ _instrucciones_
 
 ---

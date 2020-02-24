@@ -1,6 +1,10 @@
-# OBJECT: Abstracciones de lógica.
+---
+marp: true
+---
 
-### Muchas clases pequeñas bien encapsuladas.
+# 📦 OBJECT: Abstracciones de lógica.
+
+## Muchas clases pequeñas bien encapsuladas.
 
 > "La encapsulación es importante.
 > Pero la razón por la cual es importante es aún más importante.
