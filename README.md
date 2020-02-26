@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # 📦 OBJECT: Abstracciones de lógica.
 
 ## Muchas clases pequeñas bien encapsuladas.

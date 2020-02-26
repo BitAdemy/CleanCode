@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # ⚒️ Principios sólidos para finales flexibles.
 
 ## SOLID: Principios para organizar clases.

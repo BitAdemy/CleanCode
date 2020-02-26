@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # 🧱 Cohesión de funciones
 
 ## Clases: Agrupación de funciones con sentido de negocio.
