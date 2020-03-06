@@ -24,7 +24,7 @@ marp: true
 ---
 
 > "La estructura de datos
-> expone sus propiedades
+> expone sus **propiedades**
 > y no tiene funciones significativas"
 >
 > -- ✍️ **Robert C. Martin**
