@@ -30,6 +30,8 @@
 ### 🚦 Belleza **vertical**
 
   - **Orden** de las variables o propiedades
+    - clases: propiedades -> constructor -> métodos
+    - módulos: variables -> funciones
   - **Orden** de las funciones o métodos:
     - revelador: públicos -> privados
     - newsletter: público -> privados -> público -> privados
@@ -43,8 +45,15 @@
     - alrededor de los paréntesis
     - alrededor de los operadores
   - **Delimitadores** de cadenas
+  - Líneas de separación ¿?
+
+---
 
 > ¿Cuántas líneas en blanco seguidas **realmente** necesitas?
+
+---
+
+>> ¿Dónde colocar esa línea de separación?
 
 
 ## 📝 Laboratorio
