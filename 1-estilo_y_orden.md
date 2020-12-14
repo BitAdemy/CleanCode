@@ -53,8 +53,9 @@
 
 ---
 
->> ¿Dónde colocar esa línea de separación?
+>> ¿Dónde vas a colocar ESA línea de separación?
 
+---
 
 ## 📝 Laboratorio
 
