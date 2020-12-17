@@ -28,5 +28,3 @@
 - ✅0______2❌ _argumentos por método_
 - ✅0______1❌ _niveles de herencia_
 - ✅100__200❌ _instrucciones_
-
----
